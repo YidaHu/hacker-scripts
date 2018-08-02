@@ -11,6 +11,10 @@
 
 > reptile.py 简单的网页爬虫
 
+> zhihuQA.py 从知乎上爬取QA数据	
+
+> climb_cncn.py 从旅游网爬取关于苏州旅游的数据
+
 
 
 ## wechat
