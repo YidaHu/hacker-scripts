@@ -31,13 +31,15 @@ def spider(country, city):
     jsonstr = json.loads(response.text)
     print(jsonstr)
 
-    lists = []
     list = []
     title_list = []
     content_list = []
     if 'results' in jsonstr[0]['result']['value'].keys():
-        for key in ['results']:
+        for key in jsonstr[0]['result']['value']['results']:
             list.append(key)
+        print("->")
+        print(list)
+        print(jsonstr[0]['result']['value']['results'])
         for key in jsonstr[0]['result']['value']['results'][list[0]]:
             title_list.append(key)
         lists.append(title_list)
@@ -56,9 +58,9 @@ def spider(country, city):
 
 lists = []
 lists.append(
-        ['ADDRESS2', 'EVENT_END_DATE', 'SERVICES', 'LONGITUDE', 'DOORNAME', 'EVENT_IMAGE', 'ZIP_OR_POSTAL', 'LATITUDE',
-         'CITY', 'COUNTRY', 'EVENT_START_DATE', 'EVENT_NAME', 'STORE_HOURS', 'PHONE1', 'DOOR_ID', 'DISTANCE',
-         'EVENT_TIMES', 'ADDRESS', 'EVENT_FEATURES', 'STATE_OR_PROVINCE'])
+    ['ADDRESS2', 'EVENT_END_DATE', 'SERVICES', 'LONGITUDE', 'DOORNAME', 'EVENT_IMAGE', 'ZIP_OR_POSTAL', 'LATITUDE',
+     'CITY', 'COUNTRY', 'EVENT_START_DATE', 'EVENT_NAME', 'STORE_HOURS', 'PHONE1', 'DOOR_ID', 'DISTANCE',
+     'EVENT_TIMES', 'ADDRESS', 'EVENT_FEATURES', 'STATE_OR_PROVINCE'])
 city_lists = []
 with open("city.txt") as input:
     lines = input.readlines()
@@ -70,7 +72,7 @@ print(city_lists)
 for i in range(len(city_lists)):
     try:
         spider(city_lists[i][0], city_lists[i][1])
-    except OSError:
+    except:
         pass
     continue
 data = DataFrame(lists)
