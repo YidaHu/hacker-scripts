@@ -1,0 +1,3897 @@
+United Arab Emirates	Dubai
+United Arab Emirates	Dubai
+United Arab Emirates	Abu Dhabi
+United Arab Emirates	Abu Dhabi
+United Arab Emirates	Abu Dhabi
+United Arab Emirates	Dubai
+United Arab Emirates	Fujairah
+United Arab Emirates	Abu Dhabi
+United Arab Emirates	Ras Al Khaimah
+United Arab Emirates	Dubai
+United Arab Emirates	Abu Dhabi
+United Arab Emirates	Dubai
+United Arab Emirates	Dubai
+United Arab Emirates	Sharjah
+United Arab Emirates	Abu Dhabi
+United Arab Emirates	Sharjah
+United Arab Emirates	Dubai
+United Arab Emirates	Al Ain
+United Arab Emirates	Al Ain
+United Arab Emirates	Abu Dhabi
+United Arab Emirates	Abu Dhabi
+United Arab Emirates	Dubai
+United Arab Emirates	Abu Dhabi
+United Arab Emirates	Ras Al Khaimah
+United Arab Emirates	Dubai
+United Arab Emirates	Dubai
+United Arab Emirates	Abu Dhabi
+United Arab Emirates	Dubai
+United Arab Emirates	Ajman
+United Arab Emirates	Dubai
+United Arab Emirates	Dubai
+Austria	Salzburg
+Austria	Schwaz
+Austria	Graz
+Austria	Gerasdorf
+Austria	Wien
+Austria	Fürstenfeld
+Austria	Ried im Innkreis
+Austria	St.Veit an der Glan
+Austria	Tulln
+Austria	Wr Neustadt
+Austria	Wien
+Austria	Salzburg
+Austria	Wien
+Austria	Wolfsberg
+Austria	Bischofshofen
+Austria	Mistelbach
+Austria	Graz
+Austria	Wr Neustadt
+Austria	Parndorf
+Austria	Wien
+Austria	Graz
+Austria	Linz
+Austria	Wien
+Austria	Linz
+Austria	Innsbruck
+Austria	Wien
+Austria	Klagenfurt
+Austria	Wien
+Austria	Salzburg
+Austria	Wien
+Austria	Wien
+Austria	St. Pölten
+Austria	Wien
+Austria	Dornbirn
+Austria	Krems
+Austria	Graz
+Austria	Wien
+Austria	Wien
+Austria	Graz
+Austria	Wien
+Austria	Linz
+Austria	Kapfenberg
+Austria	Steyr
+Austria	St. Pölten
+Austria	Lienz
+Austria	Wörgl
+Austria	Wels
+Austria	Amstetten
+Austria	Bludenz
+Austria	Wien
+Austria	Seiersberg
+Austria	Eisenstadt
+Austria	Graz
+Austria	Feldkirch
+Austria	Wien
+Austria	Wien
+Austria	Wels
+Austria	Spittal an der Drau
+Austria	Klagenfurt
+Austria	Wien
+Austria	Salzburg
+Austria	Wien
+Austria	Villach
+Austria	Klagenfurt
+Austria	Leoben
+Austria	Innsbruck
+Austria	Linz
+Austria	Zell am See
+Austria	Seiersberg
+Austria	Oberwart
+Austria	Wien
+Austria	Liezen
+Austria	Vöcklabruck
+Austria	Telfs
+Austria	Salzburg
+Austria	Innsbruck
+Austria	Innsbruck
+Austria	Kufstein
+Austria	Leibnitz
+Australia	Melbourne
+Australia	Sydney
+Australia	Sydney
+Australia	Brisbane
+Australia	Brisbane
+Australia	Perth
+Australia	Melbourne
+Australia	Brisbane
+Australia	Perth
+Australia	Sydney
+Australia	Melbourne
+Australia	Gold Coast
+Australia	Newcastle
+Australia	Sydney
+Australia	Brisbane
+Australia	Sydney
+Australia	Sydney
+Australia	Melbourne
+Australia	Sydney
+Australia	Wollongong
+Australia	Brisbane
+Australia	Gold Coast
+Australia	Canberra
+Australia	Melbourne
+Australia	Sydney
+Australia	Hobart
+Australia	Perth
+Australia	Melbourne
+Australia	North Queensland
+Australia	Newcastle
+Australia	North Queensland
+Australia	Sydney
+Belgium	Bruxelles
+Belgium	Maasmechelen
+Belgium	Gent
+Belgium	Aalst
+Belgium	Gent
+Belgium	La Louvière
+Belgium	Brugge
+Belgium	Liège
+Belgium	Verviers
+Belgium	Arlon
+Belgium	Hornu
+Belgium	Leuven
+Belgium	Mons
+Belgium	Liège
+Belgium	Gent
+Belgium	Roeselare
+Belgium	Bruxelles
+Belgium	Bruxelles
+Belgium	Sint Niklaas
+Belgium	Oostende
+Belgium	Antwerpen
+Belgium	Wijnegem
+Belgium	Namur
+Belgium	Antwerpen
+Belgium	Bruxelles
+Belgium	Louvain-la-Neuve
+Belgium	Ninove
+Belgium	Leuven
+Belgium	Vilvoorde
+Belgium	Bruxelles
+Belgium	Genk
+Belgium	Tongeren
+Belgium	Waterloo
+Belgium	Anderlecht
+Belgium	Sint Truiden
+Belgium	Brugge
+Belgium	Kortrijk
+Belgium	Mechelen
+Belgium	Charleroi
+Belgium	Lier
+Belgium	Beveren
+Belgium	Liège
+Belgium	Hasselt
+Belgium	Chatelineau
+Belgium	Bruxelles
+Belgium	Bruxelles
+Belgium	Huy
+Belgium	Gent
+Belgium	Libramont
+Belgium	Rocourt
+Belgium	Mol
+Belgium	Diest
+Belgium	Kuurne
+Belgium	Nivelles
+Belgium	Schelle
+Belgium	Turnhout
+Belgium	Ronse
+Belgium	Knokke
+Belgium	Mouscron
+Belgium	Marche
+Belgium	Lochristi
+Belgium	Leuven
+Belgium	Mons
+Belgium	Geraardsbergen
+Belgium	Izegem
+Belgium	Lommel
+Belgium	Herstal
+Belgium	Beringen
+Belgium	Kapellen
+Belgium	Antwerpen
+Belgium	Antwerpen
+Belgium	Bruxelles
+Belgium	Froyennes
+Belgium	Eupen
+Belgium	Bruxelles
+Belgium	Charleroi
+Belgium	Olen
+Belgium	Tournai
+Bulgaria	Sofia
+Bulgaria	Varna
+Bulgaria	Sofia
+Bulgaria	Burgas
+Bulgaria	Sofia
+Bulgaria	Plovdiv
+Bulgaria	Sofia
+Bulgaria	Sofia
+Bulgaria	Sofia
+Bulgaria	Stara Zagora
+Bulgaria	Sofia
+Bulgaria	Sofia
+Bulgaria	Sofia
+Bulgaria	Russe
+Bulgaria	Pleven
+Bulgaria	Veliko Tarnovo
+Bulgaria	Blagoevgrad
+Bulgaria	Gabrovo
+Bulgaria	Sliven
+Bulgaria	Plovdiv
+Bahrain	Manama
+Bahrain	Muharraq
+Bahrain	Manama
+Bahrain	Manama
+Canada	Toronto
+Canada	Toronto
+Canada	Toronto
+Canada	Toronto
+Canada	Toronto
+Canada	Toronto
+Canada	Toronto
+Canada	Oakville
+Canada	Mississauga
+Canada	Mississauga
+Canada	Scarborough
+Canada	Montreal
+Canada	Montreal
+Canada	Montreal
+Canada	Barrie
+Canada	Montreal
+Canada	Newmarket
+Canada	Montreal
+Canada	Montreal
+Canada	Montreal
+Canada	Pickering
+Canada	St. Catharines
+Canada	Toronto
+Canada	Windsor
+Canada	London
+Canada	Coquitlam
+Canada	Toronto
+Canada	Hamilton
+Canada	Cambridge
+Canada	Edmonton
+Canada	Vancouver
+Canada	Quebec
+Canada	Quebec
+Canada	Rockyview
+Canada	Sherbrooke
+Canada	Burnaby
+Canada	Montreal
+Canada	Red Deer
+Canada	Dartmouth
+Canada	Dieppe
+Canada	Halifax
+Canada	Burlington
+Canada	Mississauga
+Canada	Joliette
+Canada	Edmonton
+Canada	Calgary
+Canada	Surrey
+Canada	Burnaby
+Canada	Brampton
+Canada	Waterloo
+Canada	Peterborough
+Canada	Ottawa
+Canada	Winnipeg
+Canada	Fredericton
+Canada	Kingston
+Canada	Surrey
+Canada	Calgary
+Canada	Abbotsford
+Canada	Ottawa
+Canada	Saint-Bruno-de-Montarville
+Canada	Victoria
+Canada	Etobicoke
+Canada	Richmond
+Canada	Sarnia
+Canada	Sault Sainte-Marie
+Canada	Guelph
+Canada	Laval
+Canada	La Salle
+Canada	Chicoutimi
+Canada	Ottawa
+Canada	Gatineau
+Canada	Repentigny
+Canada	Trois-Rivieres
+Canada	Cookstown
+Canada	Tsawwassen
+Canada	London
+Canada	Charlottetown Mall
+Canada	Richmond Hill
+Canada	Saint John
+Canada	Oshawa
+Canada	Edmonton
+Canada	Regina
+Canada	West Vancouver
+Canada	Winnipeg
+Canada	Edmonton
+Canada	Langley
+Canada	Mirabel
+Switzerland	Ebikon
+Switzerland	Vevey
+Switzerland	Luzern
+Switzerland	Winterthur
+Switzerland	Winterthur
+Switzerland	Bern
+Switzerland	Montreux
+Switzerland	Marin
+Switzerland	St.Margrethen
+Switzerland	Brugg
+Switzerland	Conthey
+Switzerland	Mels
+Switzerland	Kreuzlingen
+Switzerland	Brügg
+Switzerland	Stans
+Switzerland	Winterthur
+Switzerland	Egerkingen
+Switzerland	Chur
+Switzerland	Sion
+Switzerland	Thun
+Switzerland	Buchs
+Switzerland	Zürich
+Switzerland	Martigny
+Switzerland	Zürich
+Switzerland	Glis
+Switzerland	Davos
+Switzerland	Lausanne
+Switzerland	Lausanne
+Switzerland	Volketswil
+Switzerland	Hinwil
+Switzerland	Zürich
+Switzerland	Bülach
+Switzerland	Langenthal
+Switzerland	Zürich
+Switzerland	Pfäffikon
+Switzerland	Genève
+Switzerland	Solothurn
+Switzerland	Basel
+Switzerland	Luzern
+Switzerland	St. Gallen
+Switzerland	Nyon
+Switzerland	Genève
+Switzerland	Winterthur
+Switzerland	Neuchâtel
+Switzerland	Bern
+Switzerland	Zürich
+Switzerland	Sion
+Switzerland	Spreitenbach
+Switzerland	Zürich
+Switzerland	Thun
+Switzerland	Sierre
+Switzerland	Winterthur
+Switzerland	Kriens
+Switzerland	Zürich
+Switzerland	Basel
+Switzerland	Schönbühl
+Switzerland	Lausanne
+Switzerland	Zürich
+Switzerland	Genève
+Switzerland	Genève
+Switzerland	Zug
+Switzerland	Chiasso
+Switzerland	Lausanne
+Switzerland	Biel
+Switzerland	Monthey
+Switzerland	Bern
+Switzerland	Yverdon
+Switzerland	Luzern
+Switzerland	Glatt
+Switzerland	St. Gallen
+Switzerland	Schwyz
+Switzerland	Crissier
+Switzerland	Baden
+Switzerland	Avry
+Switzerland	Emmenbrücke
+Switzerland	Bern
+Switzerland	Lugano
+Switzerland	Basel
+Switzerland	Lugano
+Switzerland	Fribourg
+Switzerland	Chavannes-de-Bogis
+Switzerland	Chur
+Switzerland	Tenero
+Switzerland	Rapperswil
+Switzerland	Oftringen
+Switzerland	Neuchâtel
+Switzerland	Zürich
+Switzerland	Aarau
+Switzerland	Schaffhausen
+Switzerland	St. Gallen
+Switzerland	La Chaux-de-Fonds
+Switzerland	Wil
+Switzerland	Schattdorf
+Chile	Santiago
+Chile	Santiago
+Chile	Santiago
+Chile	Santiago
+Chile	Santiago
+Chile	Santiago
+Chile	Santiago
+Chile	Concepción
+Chile	Coquimbo
+Chile	Temuco
+Colombia	Bogota
+Colombia	Chia
+Colombia	Bogota
+Colombia	Bogota
+Cyprus	Nicosia
+Czech Republic	Prague
+Czech Republic	Prague
+Czech Republic	Prague
+Czech Republic	Prague
+Czech Republic	Brno
+Czech Republic	Plzen
+Czech Republic	Olomouc
+Czech Republic	Prague
+Czech Republic	Ostrava
+Czech Republic	Prague
+Czech Republic	Prague
+Czech Republic	Prague
+Czech Republic	Zlín
+Czech Republic	Liberec
+Czech Republic	Brno
+Czech Republic	Ústí nad Labem
+Czech Republic	Karlovy Vary
+Czech Republic	Pardubice
+Czech Republic	Hradec Králové
+Czech Republic	Ceské Budejovice
+Czech Republic	Prague
+Czech Republic	Brno
+Czech Republic	Ostrava
+Czech Republic	Opava
+Czech Republic	Plzen
+Czech Republic	Brno
+Czech Republic	Olomouc
+Czech Republic	Teplice
+Czech Republic	Frydek-Mistek
+Czech Republic	Ostrava
+Czech Republic	Olomouc
+Czech Republic	Prague
+Czech Republic	Decin
+Czech Republic	Kladno
+Czech Republic	Liberec
+Czech Republic	Prague
+Czech Republic	Prague
+Czech Republic	Prostejov
+Czech Republic	Prague
+Czech Republic	Prague
+Czech Republic	Přerov
+Czech Republic	Prague
+Czech Republic	Prague
+Czech Republic	Ceské Budejovice
+Czech Republic	Hradec Králové
+Czech Republic	Jablonec nad Nisou
+Czech Republic	Plzen
+Czech Republic	Ostrava
+Czech Republic	Prague
+Czech Republic	Karlovy Vary
+Germany	Essen
+Germany	Regensburg
+Germany	Ludwigshafen
+Germany	Saarbrücken
+Germany	Neuss
+Germany	Emmendingen
+Germany	Hofheim
+Germany	Eisenach
+Germany	Lemgo
+Germany	Tuttlingen
+Germany	München
+Germany	Speyer
+Germany	Ulm
+Germany	Gießen
+Germany	Ahlen
+Germany	Heinsberg
+Germany	Neu Ulm
+Germany	Kehl
+Germany	Langenfeld
+Germany	Lutherstadt Wittenberg
+Germany	Stuttgart
+Germany	Dortmund
+Germany	Sulzbach
+Germany	Mühldorf am Inn
+Germany	Langenhagen
+Germany	Bietigheim Bissingen
+Germany	Bad Homburg
+Germany	Koblenz
+Germany	Konstanz
+Germany	Leipzig
+Germany	Fulda
+Germany	Posthausen
+Germany	St. Ingbert
+Germany	Berlin
+Germany	Lindau
+Germany	Berlin
+Germany	Bremen
+Germany	Nürnberg
+Germany	Mettmann
+Germany	Wetzlar
+Germany	Duisburg
+Germany	Frankfurt
+Germany	Bad Vilbel
+Germany	Backnang
+Germany	Laatzen
+Germany	Kassel
+Germany	Dresden
+Germany	Essen
+Germany	Augsburg
+Germany	Hanau
+Germany	Hamburg
+Germany	Bochum
+Germany	Recklinghausen
+Germany	Singen
+Germany	Leipzig
+Germany	Buxtehude
+Germany	Viernheim
+Germany	Rastatt
+Germany	München
+Germany	Hallstadt bei Bamberg
+Germany	Hildesheim
+Germany	Salzgitter
+Germany	Berlin
+Germany	Kassel
+Germany	Nordhorn
+Germany	Elmshorn
+Germany	Stuttgart
+Germany	Kassel
+Germany	Ehingen
+Germany	Bergisch Gladbach
+Germany	Hermsdorf
+Germany	Pinneberg
+Germany	Rheinfelden
+Germany	Würzburg
+Germany	Solingen
+Germany	Nordhausen
+Germany	Freiburg
+Germany	Celle
+Germany	Stuttgart
+Germany	Donauwörth
+Germany	Mosbach
+Germany	Neubrandenburg
+Germany	Schwandorf
+Germany	Cuxhaven
+Germany	Dinslaken
+Germany	Neustadt am Rübenberge
+Germany	Berlin
+Germany	München
+Germany	Limburg
+Germany	Frankfurt
+Germany	Aachen
+Germany	Troisdorf
+Germany	Pirmasens
+Germany	Wuppertal/Elberfeld
+Germany	Homburg / Saar
+Germany	Cottbus
+Germany	Kaufbeuren
+Germany	Hof
+Germany	Ludwigsburg
+Germany	Memmingen
+Germany	Bad Kreuznach
+Germany	Hamburg
+Germany	Villingen-Schwenningen
+Germany	Neu-Isenburg
+Germany	Weiden
+Germany	Soest
+Germany	Regensburg
+Germany	Lübeck
+Germany	Hagen
+Germany	Höxter
+Germany	Brandenburg
+Germany	Schwäbisch Gmünd
+Germany	München
+Germany	Lüdenscheid
+Germany	Mülheim
+Germany	Sindelfingen
+Germany	Lahr
+Germany	Hameln
+Germany	Greifswald
+Germany	Worms
+Germany	Heidenheim
+Germany	Neustadt (a.d.W.)
+Germany	Kleve
+Germany	Bottrop
+Germany	Hannover
+Germany	Halberstadt
+Germany	Lörrach
+Germany	Gelsenkirchen
+Germany	Schweinfurt
+Germany	Koblenz
+Germany	Nürnberg
+Germany	Kulmbach
+Germany	Marburg
+Germany	Schwabach
+Germany	Wiesbaden
+Germany	Arnsberg
+Germany	Gifhorn
+Germany	Karlsruhe
+Germany	Pforzheim
+Germany	Leer
+Germany	Lingen
+Germany	Gütersloh
+Germany	Delmenhorst
+Germany	Friedrichshafen
+Germany	Dresden
+Germany	Hamburg
+Germany	Hamburg
+Germany	Hamburg
+Germany	Bonn-Bad Godesberg
+Germany	Stuttgart-Bad Cannstatt
+Germany	Amberg
+Germany	Moers
+Germany	Köln
+Germany	Tübingen
+Germany	Hilden
+Germany	Dorsten
+Germany	Leipzig
+Germany	Landshut
+Germany	Bad Hersfeld
+Germany	Berlin
+Germany	Düsseldorf
+Germany	Köln
+Germany	München
+Germany	München
+Germany	Düren
+Germany	Hamburg
+Germany	Iserlohn
+Germany	Northeim
+Germany	Braunschweig
+Germany	Aurich
+Germany	Passau
+Germany	Zwickau
+Germany	Schwedt
+Germany	Güntersd. (Leipzig)
+Germany	Wiesbaden
+Germany	Berlin
+Germany	Berlin
+Germany	Neunkirchen
+Germany	Dresden-Nickern
+Germany	Saarbrücken
+Germany	Weil am Rhein
+Germany	Offenburg
+Germany	Bremerhaven
+Germany	Köln
+Germany	Göppingen
+Germany	Deggendorf
+Germany	Rendsburg
+Germany	Hamburg
+Germany	Landsberg
+Germany	Chemnitz
+Germany	Sinsheim
+Germany	Wismar
+Germany	Kiel
+Germany	Düsseldorf
+Germany	Ludwigsburg
+Germany	Baden-Baden
+Germany	Meppen
+Germany	Hamburg
+Germany	Detmold
+Germany	Hannover
+Germany	Neuss
+Germany	Rostock
+Germany	Buchholz
+Germany	Berlin
+Germany	Ibbenbüren
+Germany	Stade
+Germany	Aachen
+Germany	Hattingen
+Germany	Nienburg
+Germany	Heilbronn
+Germany	Hildesheim
+Germany	Albstadt
+Germany	Bonn
+Germany	Köln
+Germany	Coesfeld
+Germany	Berlin
+Germany	Oldenburg
+Germany	Berlin
+Germany	Duisburg
+Germany	Berlin
+Germany	Remscheid
+Germany	Göttingen
+Germany	Goslar
+Germany	Witten
+Germany	München
+Germany	Düsseldorf
+Germany	Garmisch-Partenkirchen
+Germany	München
+Germany	Aschaffenburg
+Germany	Ratingen
+Germany	Lünen
+Germany	Lübeck
+Germany	Bremen
+Germany	Berlin
+Germany	Gummersbach
+Germany	Düsseldorf
+Germany	Weinheim
+Germany	Bruchsal
+Germany	Leverkusen
+Germany	Hamburg
+Germany	Frankfurt
+Germany	Herne
+Germany	Offenbach
+Germany	Gelsenkirchen-Buer
+Germany	Trier
+Germany	Wildau
+Germany	Dresden
+Germany	Essen
+Germany	Chemnitz
+Germany	Ingolstadt
+Germany	Regensburg
+Germany	Weiterstadt
+Germany	Kassel
+Germany	Hamburg
+Germany	Hamburg
+Germany	Erfurt
+Germany	Karlsruhe
+Germany	Gera
+Germany	Berlin
+Germany	Hamburg
+Germany	Hamburg
+Germany	Waiblingen
+Germany	Lippstadt
+Germany	Dormagen
+Germany	Frechen
+Germany	Böblingen
+Germany	Oberhausen
+Germany	Mönchengladbach
+Germany	Halle/Saale
+Germany	Augsburg
+Germany	Siegburg
+Germany	Achern
+Germany	Neumünster
+Germany	Frankenberg
+Germany	Wasserburg
+Germany	Landau
+Germany	Saarlouis
+Germany	Köln/Chorweiler
+Germany	Ludwigsburg
+Germany	Ravensburg
+Germany	Freising
+Germany	Karlsruhe
+Germany	Ingelheim
+Germany	Bad Säckingen
+Germany	Hoyerswerda
+Germany	Lübeck
+Germany	Minden
+Germany	Schorndorf
+Germany	Sankt Augustin
+Germany	Emden
+Germany	Geldern
+Germany	Dülmen
+Germany	Mülheim-Kärlich
+Germany	Berlin-Dallgow
+Germany	Nagold
+Germany	Eiche
+Germany	Geislingen
+Germany	Brühl
+Germany	Hamburg
+Germany	Oldenburg
+Germany	Bremen
+Germany	Berlin
+Germany	Essen
+Germany	Mannheim
+Germany	Bielefeld
+Germany	Kiel
+Germany	Bremen
+Germany	Nürnberg
+Germany	Hannover
+Germany	Bochum
+Germany	Osnabrück
+Germany	Ingolstadt
+Germany	Braunschweig
+Germany	Norderstedt
+Germany	München
+Germany	Köln
+Germany	Hamm
+Germany	München
+Germany	Berlin
+Germany	Münster
+Germany	München
+Germany	Cloppenburg
+Germany	Wiesbaden
+Germany	Krefeld
+Germany	Mülheim
+Germany	Düsseldorf
+Germany	Berlin
+Germany	Saarbrücken
+Germany	Frankfurt
+Germany	Schenefeld
+Germany	Frankfurt
+Germany	Kempten
+Germany	Potsdam
+Germany	Hamburg
+Germany	Bonn
+Germany	Velbert
+Germany	Paderborn
+Germany	Berlin
+Germany	Dessau
+Germany	Dresden
+Germany	Halle/Saale
+Germany	Mainz
+Germany	Reutlingen
+Germany	Bremen
+Germany	Stuttgart
+Germany	Siegen
+Germany	Berlin
+Germany	Flensburg
+Germany	Leipzig-Grünau
+Germany	Freiburg
+Germany	Hürth
+Germany	Bielefeld
+Germany	Potsdam
+Germany	Rheine
+Germany	Heidelberg
+Germany	Dortmund
+Germany	Görlitz
+Germany	Berlin
+Germany	Karlsruhe
+Germany	Wuppertal-Barmen
+Germany	Erlangen
+Germany	Göttingen
+Germany	Wilhelmshaven
+Germany	Berlin
+Germany	Berlin
+Germany	Schwerin
+Germany	Rosenheim
+Germany	Mannheim
+Germany	Düsseldorf
+Germany	Erfurt
+Germany	Bayreuth
+Germany	Berlin
+Germany	Zwickau
+Germany	Köln
+Germany	Würzburg
+Germany	Darmstadt
+Germany	Magdeburg
+Germany	Berlin
+Germany	München
+Germany	Trier
+Germany	Sindelfingen
+Germany	Bad Oeynhausen
+Germany	Ulm
+Germany	Erfurt
+Germany	Kaiserslautern
+Germany	Karlsruhe
+Germany	Ulm
+Germany	Kassel
+Germany	Berlin
+Germany	Jena
+Germany	Berlin
+Germany	Fürth
+Germany	Chemnitz
+Germany	Münster
+Germany	Augsburg
+Germany	Stralsund
+Germany	Bocholt
+Germany	Gießen
+Germany	Herford
+Germany	Plauen
+Germany	Coburg
+Germany	Straubing
+Germany	Ansbach
+Germany	Frankfurt/Oder
+Germany	Schwäbisch Hall
+Germany	Lüneburg
+Germany	Neuwied
+Germany	Bamberg
+Germany	Konstanz
+Germany	Berlin
+Germany	Wesel
+Germany	Aalen
+Germany	Marl
+Germany	Esslingen
+Germany	Baden-Baden
+Germany	Wolfsburg
+Germany	Nürnberg
+Germany	Neumarkt
+Denmark	Vejle
+Denmark	Køge
+Denmark	Esbjerg
+Denmark	Hjørring
+Denmark	Slagelse
+Denmark	Herlev
+Denmark	Aalborg
+Denmark	Hillerød
+Denmark	Esbjerg
+Denmark	Nykøbing F
+Denmark	Middelfart
+Denmark	Ringsted
+Denmark	Tønder
+Denmark	Nakskov
+Denmark	Vanløse
+Denmark	Nyborg
+Denmark	Holbæk
+Denmark	Taastrup
+Denmark	Kalundborg
+Denmark	Copenhagen S
+Denmark	Ballerup
+Denmark	Copenhagen N
+Denmark	Frederikssund
+Denmark	Hundige
+Denmark	Valby
+Denmark	Ringsted
+Denmark	Hellerup
+Denmark	Rönne
+Denmark	Copenhagen S
+Denmark	Copenhagen S
+Denmark	Roskilde
+Denmark	Frederiksberg
+Denmark	Glostrup
+Denmark	Copenhagen K
+Denmark	Rødovre
+Denmark	Copenhagen V
+Denmark	Copenhagen K
+Denmark	Copenhagen K
+Denmark	Tåstrup
+Denmark	Copenhagen K
+Denmark	Hvidovre
+Denmark	Lyngby
+Denmark	Ishøj
+Denmark	Hørsholm
+Denmark	Herlev
+Denmark	Hillerød
+Denmark	Helsingør
+Denmark	Roskilde
+Denmark	Holbæk
+Denmark	Næstved
+Denmark	Århus C
+Denmark	Aalborg
+Denmark	Esbjerg
+Denmark	Kolding
+Denmark	Herning
+Denmark	Odense C
+Denmark	Århus N
+Denmark	Aalborg
+Denmark	Svendborg
+Denmark	Aalborg
+Denmark	Skive
+Denmark	Randers
+Denmark	Odense SØ
+Denmark	Viborg
+Denmark	Århus C
+Denmark	Brabrand
+Denmark	Frederikshavn
+Denmark	Horsens
+Denmark	Randers
+Denmark	Vejle
+Denmark	Kolding
+Denmark	Haderslev
+Denmark	Aalborg
+Denmark	Holstebro
+Denmark	Thisted
+Denmark	Odense C
+Denmark	Fredericia
+Denmark	Silkeborg
+Denmark	Aabenraa
+Denmark	Herning
+Denmark	Sønderborg
+Denmark	Skanderborg
+Denmark	Århus C
+Estonia	Tallinn
+Estonia	Tallinn
+Estonia	Tallinn
+Estonia	Tallinn
+Estonia	Pärnu
+Estonia	Narva
+Estonia	Tartu
+Estonia	Rakvere
+Estonia	Tartu
+Estonia	Kuressaare
+Estonia	Tallinn
+Egypt	Alexandria
+Egypt	Cairo
+Egypt	Alexandria
+Egypt	Cairo
+Egypt	Cairo
+Egypt	Cairo
+Egypt	Cairo
+Egypt	Cairo
+Egypt	Cairo
+Egypt	Cairo
+Egypt	Cairo
+Egypt	Cairo
+Egypt	Cairo
+Egypt	Cairo
+Spain	Barcelona
+Spain	Badalona (Barcelona)
+Spain	Valencia
+Spain	Zaragoza
+Spain	Barcelona
+Spain	Madrid
+Spain	L´Hospitalet de Llobregat
+Spain	Bilbao
+Spain	Oviedo
+Spain	Barakaldo (Bilbao)
+Spain	Pamplona
+Spain	Terrassa (Barcelona)
+Spain	Madrid
+Spain	Alicante
+Spain	Salamanca
+Spain	Valencia
+Spain	Elche (Alicante)
+Spain	Torrejón de Ardoz(Mad)
+Spain	Vitoria
+Spain	Madrid
+Spain	Madrid
+Spain	Barcelona
+Spain	Marbella (Málaga)
+Spain	Sevilla
+Spain	San Sebastián
+Spain	Tarragona
+Spain	Leganés (Madrid)
+Spain	Madrid
+Spain	Pamplona
+Spain	León
+Spain	Madrid
+Spain	Torrevieja (Alicante)
+Spain	Lorca (Murcia)
+Spain	Oviedo
+Spain	Palma de Mallorca
+Spain	Almería
+Spain	San Fernando(Cádiz)
+Spain	Barcelona
+Spain	Barcelona
+Spain	Getafe (Madrid)
+Spain	Madrid
+Spain	Madrid
+Spain	Girona
+Spain	Vigo
+Spain	Logroño
+Spain	Lugo
+Spain	Lleida
+Spain	Madrid
+Spain	Murcia
+Spain	Salamanca
+Spain	Málaga
+Spain	Málaga
+Spain	Castellón de la Plana
+Spain	Pto. del Rosario
+Spain	Benidorm (Alicante)
+Spain	Ponferrada (León)
+Spain	Roquetas de Mar (Almería)
+Spain	Vigo
+Spain	Sabadell (Barcelona)
+Spain	Granada
+Spain	Santa Cruz de Tenerife
+Spain	Sevilla
+Spain	Girona
+Spain	Madrid
+Spain	Cartagena (Murcia)
+Spain	Barcelona
+Spain	Barcelona
+Spain	J.de la Frontera (Cádiz)
+Spain	Sanlúcar Barrameda(Cádiz)
+Spain	A Coruña
+Spain	Madrid
+Spain	Alcalá de Henares(Madrid)
+Spain	Colmenar Viejo (Madrid)
+Spain	Cornellá (Barcelona)
+Spain	Orense
+Spain	Bilbao
+Spain	Palencia
+Spain	Valencia
+Spain	Oviedo
+Spain	Albacete
+Spain	Santa Cruz de Tenerife
+Spain	Madrid
+Spain	Madrid
+Spain	Ciudad Real
+Spain	Valladolid
+Spain	L. Palmas de Gran Canaria
+Spain	L. Palmas de Gran Canaria
+Spain	Málaga
+Spain	Barcelona
+Spain	Badajoz
+Spain	Valencia
+Spain	A Coruña
+Spain	San Sebastián
+Spain	Zaragoza
+Spain	Carcaixent
+Spain	Gandia
+Spain	Pontevedra
+Spain	Almería
+Spain	Talavera de la Reina
+Spain	Madrid
+Spain	Valencia
+Spain	Majadahonda (Madrid)
+Spain	Sevilla
+Spain	Madrid
+Spain	Valladolid
+Spain	Santiago de Compostela
+Spain	Murcia
+Spain	Granada
+Spain	Fuengirola
+Spain	Algeciras
+Spain	Madrid
+Spain	Alcalá de Guadaira
+Spain	Castelldefels
+Spain	Ondara
+Spain	Orihuela Costa (Alicante)
+Spain	Huelva
+Spain	Granada
+Spain	Madrid
+Spain	Majadahonda (Madrid)
+Spain	Madrid
+Spain	Soria
+Spain	Jaen
+Spain	Fuenlabrada
+Spain	Marbella (Málaga)
+Spain	Alcorcón (Madrid)
+Spain	Alicante
+Spain	Palma de Mallorca
+Spain	Murcia
+Spain	Madrid
+Spain	Valencia
+Spain	Vélez-Málaga
+Spain	Cuenca
+Spain	Badalona (Barcelona)
+Spain	Santander
+Spain	Bilbao
+Spain	Mataró
+Spain	Madrid
+Spain	Puerto de Santa María
+Spain	Sevilla
+Spain	Lanzarote
+Spain	J.de la Frontera (Cádiz)
+Spain	Adeje (Tenerife)
+Spain	Adeje (Tenerife)
+Spain	Sagunto (Valencia)
+Spain	Santa Cruz de Tenerife
+Spain	Barcelona
+Spain	Palma de Mallorca
+Spain	Reus (Tarragona)
+Spain	Córdoba
+Spain	Barcelona
+Spain	Melilla
+Spain	Madrid
+Spain	Guadalajara
+Spain	Irún
+Spain	El ferrol (La Coruña)
+Spain	Orihuela
+Spain	Xativa
+Spain	El Ejido
+Spain	L. Palmas de Gran Canaria
+Spain	BURGOS
+Finland	Tampere
+Finland	Helsinki
+Finland	Vaasa
+Finland	Lahti
+Finland	Tampere
+Finland	Helsinki
+Finland	Kuopio
+Finland	Vantaa
+Finland	Raisio
+Finland	Pirkkala
+Finland	Pori
+Finland	Turku
+Finland	Espoo
+Finland	Imatra
+Finland	Oulu
+Finland	Kotka
+Finland	Joensuu
+Finland	Salo
+Finland	Kokkola
+Finland	Lempäälä
+Finland	Tornio
+Finland	Kajaani
+Finland	Lappeenranta
+Finland	Hyvinkää
+Finland	Turku
+Finland	Lohja
+Finland	Kempele
+Finland	Savonlinna
+Finland	Lahti
+Finland	Helsinki
+Finland	Rovaniemi
+Finland	Kouvola
+Finland	Iisalmi
+Finland	Mikkeli
+Finland	Porvoo
+Finland	Kuopio
+Finland	Vantaa
+Finland	Vaasa
+Finland	Maarianhamina
+Finland	Varkaus
+Finland	Riihimäki
+Finland	Seinäjoki
+Finland	Tampere
+Finland	Hämeenlinna
+Finland	Helsinki
+Finland	Pori
+Finland	Jyväskylä
+Finland	Helsinki
+Finland	Espoo
+Finland	Espoo
+Finland	Helsinki
+Finland	Pietarsaari
+Finland	Oulu
+Finland	Ylöjärvi
+Finland	Jyväskylä
+Finland	Tampere
+Finland	Espoo
+Finland	Kirkkonummi
+Finland	Helsinki
+France	Paris
+France	Charenton
+France	La Défense
+France	Lyon
+France	Lille
+France	St Quentin en Yvelines
+France	Cergy
+France	Thiais
+France	Paris
+France	Aulnay sous bois
+France	Coquelles
+France	Paris
+France	Marne la Vallée
+France	Rouen
+France	Le Mans
+France	Dunkerque
+France	Les Ulis
+France	Bordeaux
+France	Annecy
+France	Evry
+France	Orléans
+France	Marseille
+France	Issy Les Moulineaux
+France	Nancy
+France	Dijon
+France	Avignon
+France	Créteil
+France	Marseille
+France	St Etienne
+France	Grenoble
+France	Bordeaux
+France	Brest
+France	Roubaix
+France	Nantes
+France	Lyon
+France	Nantes
+France	Lille
+France	Reims
+France	Rosny
+France	Vélizy Villacoublay
+France	Melun
+France	Torcy
+France	Troyes
+France	Val Thoiry
+France	Nîmes
+France	Bourges
+France	Avignon
+France	Thionville
+France	Angers
+France	Le Mans
+France	Arcueil
+France	Toulouse
+France	Tours
+France	Rennes
+France	Avignon
+France	Rosny
+France	Valenciennes
+France	Paris
+France	Caen
+France	Aix en Provence
+France	Montesson
+France	Villeneuve d'Ascq
+France	Lille
+France	Lorient
+France	Nancy
+France	Colmar
+France	Noyelles Godault
+France	Poitiers
+France	Toulouse
+France	Paris
+France	Lille
+France	Angoulême
+France	Strasbourg
+France	Limoges
+France	Chambéry
+France	Orléans
+France	Marseille
+France	Nantes
+France	Toulouse
+France	Bordeaux
+France	Tours
+France	Noisy-le-Grand
+France	St Laurent du Var
+France	Beziers
+France	Anglet
+France	Le Havre
+France	Montpellier
+France	Clermont Ferrand
+France	Etrembières
+France	Marseille
+France	La Valette du Var
+France	St Brieuc
+France	Amiens
+France	Toulouse
+France	Taverny
+France	Besançon
+France	St Nazaire
+France	Rouen
+France	Kremlin Bicêtre
+France	Marseille
+France	Vaulx en Velin
+France	Valence
+France	Paris
+France	Niort
+France	Cholet
+France	La Roche-sur-Yon
+France	Toulouse
+France	Le Mans
+France	Grenoble
+France	Quimper
+France	Tarbes
+France	Nice
+France	Bourg en Bresse
+France	Montauban
+France	Plaisir
+France	La Ville du Bois
+France	Nevers
+France	Libourne
+France	Brest
+France	Aubervilliers
+France	Metz
+France	Ormesson
+France	Marseille
+France	Sarcelles
+France	Auxerrre
+France	Cherbourg
+France	Chambourcy
+France	Angers
+France	Rennes
+France	Roanne
+France	Perpignan
+France	Villeneuve-la-Garenne
+France	Saumur
+France	Caen
+France	Reims
+France	St Etienne
+France	Chalons en Champagne
+France	Moulins-sur-Allier
+France	Rouen
+France	Nogent sur Oise
+France	Annemasse
+France	Narbonne
+France	Nantes
+France	Mont de Marsan
+France	Brive la Gaillarde
+France	Epinay sur Seine
+France	Saint Quentin (Aisne)
+France	Le Havre
+France	Poitiers
+France	Annecy
+France	Troyes
+France	Levallois-Perret
+France	Claye Souilly
+France	Rennes
+France	Moisselles
+France	Strasbourg
+France	Evreux
+France	Brétigny sur orge
+France	Clermont Ferrand
+France	Paris
+France	Bègles
+France	Caen
+France	Beauvais
+France	Mulhouse
+France	Millau
+France	Roissy en France
+France	Creil
+France	Arcachon
+France	Bordeaux
+France	Pau
+France	Mont St Martin
+France	MEAUX
+France	Strasbourg
+France	Compiègne
+France	L'Isle d'Abeau
+France	Paris
+France	Paris
+France	Alençon
+France	La Rochelle
+France	Vannes
+France	Nice
+France	Châteauroux
+France	Chartres
+France	Orléans
+France	Niort
+France	Cagnes sur Mer
+France	Besançon
+France	Dax
+France	Marseille
+France	Metz
+France	Cannes
+France	Lorient
+France	Angoulême
+France	Morlaix
+France	Aix en Provence
+France	Toulouse
+France	Dijon
+France	Pau
+France	Villebon sur Yvette
+France	Metz
+France	FAREBERSVILLER
+France	Bayonne
+France	Amiens
+France	Ajaccio
+France	Perigueux
+France	Macon
+France	Quimper
+France	Orléans
+UK	Edinburgh
+UK	Brighton
+UK	Brighton
+UK	Epsom
+UK	London
+UK	Portsmouth
+UK	West Midlands
+UK	Northampton
+UK	Nottingham
+UK	Basingstoke
+UK	Watford
+UK	Romford
+UK	Norwich
+UK	Harrow
+UK	Leicester
+UK	Leeds
+UK	Bristol
+UK	Manchester
+UK	Crawley
+UK	Reading
+UK	Newcastle upon Tyne
+UK	Southampton
+UK	Peterborough
+UK	London
+UK	London
+UK	Milton Keynes
+UK	Birmingham
+UK	Liverpool
+UK	Dundee
+UK	London
+UK	Bristol
+UK	Sheffield
+UK	Exeter
+UK	Uxbridge
+UK	Solihull
+UK	Coventry
+UK	Sunderland
+UK	Preston
+UK	Carlisle
+UK	London
+UK	Chelmsford
+UK	London
+UK	Inverness
+UK	Manchester
+UK	Gloucester
+UK	Maidstone
+UK	London
+UK	Redditch
+UK	York
+UK	Doncaster
+UK	Worcester
+UK	Bournemouth
+UK	Manchester
+UK	Slough
+UK	Stockton Upon Tees
+UK	Chester
+UK	London
+UK	Glasgow
+UK	Newcastle upon Tyne
+UK	Canterbury
+UK	Nuneaton
+UK	London
+UK	Edinburgh
+UK	St Albans
+UK	Croydon
+UK	Aberdeen
+UK	Ayr
+UK	Windsor
+UK	Wigan
+UK	Craigavon
+UK	Sheffield
+UK	Hemel Hempstead
+UK	Bournemouth
+UK	Telford
+UK	London
+UK	Manchester
+UK	Cambridge
+UK	Belfast
+UK	Plymouth
+UK	Newport Isle of Wight
+UK	Warrington
+UK	Hull
+UK	Bristol
+UK	Middlesbrough
+UK	Ballymena
+UK	Bromley
+UK	Bury St Edmunds
+UK	Derby
+UK	Derby
+UK	London
+UK	London
+UK	Basildon
+UK	Bolton
+UK	Chichester
+UK	Glasgow
+UK	Ipswich
+UK	Oldham
+UK	Ashford
+UK	Walton On Thames
+UK	Wrexham
+UK	Enfield
+UK	Leicester
+UK	High Wycombe
+UK	Belfast
+UK	Edinburgh
+UK	Dundee
+UK	Bath
+UK	Wakefield
+UK	Bath
+UK	Altrincham
+UK	Leeds
+UK	Enfield
+UK	Brighton
+UK	Leamington Spa
+UK	Croydon
+UK	Cheltenham
+UK	London
+UK	London
+UK	Glasgow
+UK	Swansea
+UK	Kent
+UK	Kingston
+UK	Camberley
+UK	Shrewsbury
+UK	Lewisham
+UK	Stirling
+UK	Chesterfield
+UK	Worthing
+UK	Banbury
+UK	Sutton Coldfield
+UK	Torquay
+UK	London
+UK	Bexleyheath
+UK	Woking
+UK	Colchester
+UK	London
+UK	Bury
+UK	Glasgow
+UK	Newbury
+UK	London
+UK	York
+UK	Corby
+UK	London
+UK	Harlow
+UK	Blackburn
+UK	Stockton Upon Tees
+UK	Glasgow
+UK	St Andrews
+UK	Walton On Thames
+UK	Bangor
+UK	Stockport
+UK	Staines
+UK	Carmarthen
+UK	Witney
+UK	London
+UK	Huddersfield
+UK	London
+UK	Birmingham
+UK	Newry
+UK	Bangor NI
+UK	Lisburn
+UK	Swansea
+UK	Norwich
+UK	Chester
+UK	Liverpool
+UK	Cambridge
+UK	Aylesbury
+UK	Dunfermline
+UK	Fareham
+UK	Oxford
+UK	London
+UK	London
+UK	Milton Keynes
+UK	Basingstoke
+UK	Newcastle upon Tyne
+UK	Epsom
+UK	Londonderry
+UK	Newport
+UK	Luton
+UK	LLanelli
+UK	Southend
+UK	Harrow
+UK	Manchester
+UK	Norwich
+UK	Peterborough
+UK	Salisbury
+UK	Workington
+UK	Bromborough
+UK	East Kilbride
+UK	Washington
+UK	Perth
+UK	Belfast
+UK	Tamworth
+UK	Hastings
+UK	Birkenhead
+UK	Newcastle upon Tyne
+UK	Hartlepool
+UK	St Helens
+UK	Beverley
+UK	Stevenage
+UK	Eastbourne
+UK	Lincoln
+UK	Bracknell
+UK	West Bromwich
+UK	London
+UK	London
+UK	Kingston
+UK	Hereford
+UK	Redhill
+UK	Yeovil
+UK	Stoke on Trent
+UK	Swindon
+UK	Bishops Stortford
+UK	Maidenhead
+UK	Coventry
+UK	Stafford
+UK	Newport
+UK	Cardiff
+UK	Wolverhampton
+UK	Edinburgh
+UK	Rushden
+UK	Rugby
+UK	Welwyn Garden City
+UK	Poole
+UK	Ilford
+UK	Eastleigh
+UK	Biggleswade
+UK	Bradford
+UK	Rotherham
+UK	Oxford
+UK	Durham
+UK	Birmingham
+UK	Barnsley
+UK	Southend
+UK	London
+UK	Peterborough
+UK	Merthyr Tydfil
+UK	Didcot
+UK	Glasgow
+UK	London
+UK	London
+UK	Kettering
+UK	Grays
+UK	London
+UK	Burton Upon Trent
+UK	Liverpool
+Georgia	Tbilisi
+Georgia	Tbilisi
+Greece	Athens
+Greece	Athens
+Greece	Athens
+Greece	Thessaloniki
+Greece	Athens
+Greece	Rhodes
+Greece	Athens
+Greece	Athens
+Greece	Komotini
+Greece	Ioannina
+Greece	Athens
+Greece	Athens
+Greece	Athens
+Greece	Athens
+Greece	Athens
+Greece	Athens
+Greece	Athens
+Greece	Patra
+Greece	Piraeus
+Greece	Xanthi
+Greece	Athens
+Greece	Thessaloniki
+Greece	Patra
+Greece	Ioannina
+Greece	Volos
+Greece	Thessaloniki
+Greece	Kalamata
+Greece	Chania
+Greece	Heraklion
+Greece	Athens
+Greece	Corinth
+Greece	Veroia
+Greece	Larissa
+Greece	Athens
+Greece	Agrinio
+Hong Kong	Hong Kong
+Hong Kong	Hong Kong
+Hong Kong	Hong Kong
+Hong Kong	Hong Kong
+Hong Kong	Hong Kong
+Hong Kong	Hong Kong
+Hong Kong	Hong Kong
+Hong Kong	Hong Kong
+Hong Kong	Hong Kong
+Hong Kong	Hong Kong
+Hong Kong	Hong Kong
+Hong Kong	Hong Kong
+Hong Kong	Hong Kong
+Hong Kong	Hong Kong
+Hong Kong	Hong Kong
+Hong Kong	Hong Kong
+Hong Kong	Hong Kong
+Croatia	Zagreb
+Croatia	Zagreb
+Croatia	Zagreb
+Croatia	Split
+Croatia	Zagreb
+Croatia	Zadar
+Croatia	Zagreb
+Croatia	Osijek
+Croatia	Rijeka
+Croatia	Zagreb
+Croatia	Slavonski Brod
+Croatia	Sibenik
+Croatia	Rijeka
+Croatia	Varazdin
+Croatia	Dubrovnik
+Hungary	Budapest
+Hungary	Gyor
+Hungary	Budapest
+Hungary	Budapest
+Hungary	Debrecen
+Hungary	Debrecen
+Hungary	Budapest
+Hungary	Pécs
+Hungary	Budapest
+Hungary	Budapest
+Hungary	Budapest
+Hungary	Miskolc
+Hungary	Szeged
+Hungary	Budapest
+Hungary	Budapest
+Hungary	Tatabánya
+Hungary	Szeged
+Hungary	Budapest
+Hungary	Kecskemét
+Hungary	Nyíregyháza
+Hungary	Budapest
+Hungary	Budapest
+Hungary	Sopron
+Hungary	Veszprém
+Hungary	Siófok
+Hungary	Budapest
+Hungary	Érd
+Hungary	Gödöllo
+Hungary	Budapest
+Hungary	Székesfehérvár
+Hungary	Kaposvár
+Hungary	Budapest
+Hungary	Nagykanizsa
+Hungary	Budaörs
+Hungary	Budapest
+Hungary	Szolnok
+Hungary	Szombathely
+Hungary	Zalaegerszeg
+Hungary	Budapest
+Hungary	Budapest
+Hungary	Budapest
+Hungary	Miskolc
+Hungary	Eger
+Hungary	Hódmezovásárhely
+Indonesia	Jakarta
+Indonesia	Jakarta
+Indonesia	Jakarta
+Indonesia	Jakarta
+Indonesia	Jakarta
+Indonesia	Bandung
+Indonesia	Medan
+Indonesia	Medan
+Indonesia	Jakarta
+Indonesia	Jakarta
+Indonesia	Bali
+Indonesia	Jakarta
+Indonesia	Jakarta
+Indonesia	Jakarta
+Indonesia	Bali
+Indonesia	Yogjakarta
+Indonesia	Balikpapan
+Indonesia	Tangerang
+Indonesia	Surabaya
+Indonesia	Jakarta
+Indonesia	Bandung
+Indonesia	Surabaya
+Indonesia	Pekanbaru
+Indonesia	Surabaya
+Indonesia	Jakarta
+Indonesia	Solo
+Indonesia	Jakarta
+Indonesia	Bekasi
+Ireland	Dublin
+Ireland	Dublin
+Ireland	Dublin
+Ireland	Limerick
+Ireland	Newbridge
+Ireland	Dublin
+Ireland	Dublin
+Ireland	Athlone
+Ireland	Dublin
+Ireland	Dublin
+Ireland	Cork
+Ireland	Dublin
+Ireland	Kilkenny
+Ireland	Letterkenny
+Ireland	Dublin
+Ireland	Dublin
+Ireland	Dundalk
+Israel	Tel Aviv
+Israel	Jerusalem
+Israel	Haifa
+Israel	Kfar-Saba
+Israel	Natanya
+Israel	Petach Tikva
+Israel	Herzelya
+Israel	Rehovot
+Israel	Kiryat Bialik
+Israel	Bat-Yam
+Israel	Beer-Sheva
+Israel	Nazeret
+Israel	Hadera
+Israel	Tiberius
+Israel	Raanana
+Israel	Ramla
+Israel	Ashdod
+Israel	Ramat Gan
+Israel	Tel Aviv
+Israel	Kiryat Ono
+Israel	Rishon LeZion
+India	New Delhi
+India	Noida
+India	Mumbai
+India	New Delhi
+India	New Delhi
+India	Bangalore
+India	Mohali Chandigarh
+India	Mumbai
+India	Chennai
+India	Chennai
+India	Bangalore
+India	Pune
+India	Pune
+India	New Delhi
+India	Mumbai
+India	Hyderabad
+India	Bangalore
+India	Pune
+India	Mumbai
+India	Mumbai
+India	Bangalore
+India	Hyderabad
+India	Mumbai
+India	Chennai
+India	Coimbatore
+India	Hyderabad
+India	Indore
+India	Amritsar
+India	Ghaziabad
+India	Mysore
+India	Raipur
+India	Mumbai
+India	Ahmedabad
+India	Aurangabad
+Iceland	Reykjavik
+Iceland	Reykjavik
+Italy	Milano (MI)
+Italy	Bergamo (BG)
+Italy	Genova (GE)
+Italy	Torino (TO)
+Italy	Voghera (PV)
+Italy	Bologna (BO)
+Italy	Milano (MI)
+Italy	Mestre (VE)
+Italy	Padova (PD)
+Italy	Parma (PR)
+Italy	Roma (RM)
+Italy	Limbiate (MI)
+Italy	Cremona (CR)
+Italy	Udine (UD)
+Italy	Bellinzago (MI)
+Italy	Varese (VA)
+Italy	Lonato (BS)
+Italy	Guidonia (RM)
+Italy	Roma (RM)
+Italy	Nola (NA)
+Italy	Bari (BA)
+Italy	Roma (RM)
+Italy	Busnago (MI)
+Italy	Trieste (TS)
+Italy	Caserta (CE)
+Italy	Fiumicino (RM)
+Italy	Brescia (BS)
+Italy	Catanzaro (CZ)
+Italy	Merano (BZ)
+Italy	Bari (BA)
+Italy	Vicenza (VI)
+Italy	Milano (MI)
+Italy	Marcon (VE)
+Italy	Palermo (PA)
+Italy	Teramo (TE)
+Italy	Milano (MI)
+Italy	Carugate (MI)
+Italy	Monza (MB)
+Italy	Padova (PD)
+Italy	Ferrara (FE)
+Italy	Chieti
+Italy	Verona (VR)
+Italy	Biella (BI)
+Italy	Padova (PD)
+Italy	Firenze (FI)
+Italy	Prato (PO)
+Italy	Catania (CT)
+Italy	Latina (LT)
+Italy	Firenze (FI)
+Italy	Faenza
+Italy	Verona (VR)
+Italy	La Spezia
+Italy	Savona (SV)
+Italy	Bassano del Grappa (VI)
+Italy	Palermo (PA)
+Italy	Pescara
+Italy	Mestre (VE)
+Italy	Torino (TO)
+Italy	Bologna (BO)
+Italy	Venezia (VE)
+Italy	Firenze (FI)
+Italy	Catania (CT)
+Italy	Bolzano (BZ)
+Italy	Parma (PR)
+Italy	Pompei (NA)
+Italy	Cosenza (CS)
+Italy	Catania (CT)
+Italy	Rimini (RN)
+Italy	Milano (MI)
+Italy	Bologna (BO)
+Italy	Livorno (LI)
+Italy	Milano (MI)
+Italy	Fidenza (PR)
+Italy	Portogruaro (VE)
+Italy	Brindisi (BR)
+Italy	Conegliano (TV)
+Italy	Forlì (FC)
+Italy	Gorizia (GO)
+Italy	Salerno (SA)
+Italy	Napoli (NA)
+Italy	Roma (RM)
+Italy	Treviso (TV)
+Italy	Bergamo (BG)
+Italy	Reggio Emilia (RE)
+Italy	Ragusa (RG)
+Italy	Modica (RG)
+Italy	Torino (TO)
+Italy	Desenzano del Garda
+Italy	Milano (MI)
+Italy	Perugia (PG)
+Italy	Trieste (TS)
+Italy	Modena (MO)
+Italy	Vicenza (VI)
+Italy	Montecatini
+Italy	Ancona
+Italy	Brescia (BS)
+Italy	Treviso (TV)
+Italy	Trento (TN)
+Italy	Agrigento
+Italy	Rovigo (RO)
+Italy	Udine (UD)
+Italy	Roma (RM)
+Italy	Cuneo
+Italy	Terni
+Italy	Perugia (PG)
+Italy	L'Aquila
+Italy	Milano (MI)
+Italy	Fiumicino (RM)
+Italy	Lecce (LE)
+Italy	Bergamo (BG)
+Italy	Pisa (PI)
+Italy	Rimini (RN)
+Italy	Palermo (PA)
+Italy	Napoli (NA)
+Italy	Roma (RM)
+Italy	Civitanova Marche
+Italy	Andria
+Italy	Bolzano (BZ)
+Italy	Messina (ME)
+Italy	Lecco
+Italy	Novara (NO)
+Italy	Milano (MI)
+Italy	Milano (MI)
+Italy	Bassano del Grappa (VI)
+Italy	Ascoli Piceno
+Italy	Catania (CT)
+Italy	Roma (RM)
+Italy	Pisa (PI)
+Italy	Grosseto
+Italy	Vibo Valenzia
+Italy	Gorizia (GO)
+Italy	Udine (UD)
+Italy	Bari (BA)
+Italy	Siracusa (SR)
+Italy	Campobasso
+Italy	Piacenza (PC)
+Italy	Pesaro
+Italy	Livorno (LI)
+Italy	Foggia (FG)
+Italy	Torino (TO)
+Italy	Ravenna
+Italy	Viterbo
+Italy	Salerno (SA)
+Italy	Brescia (BS)
+Italy	Roma (RM)
+Italy	Milano (MI)
+Italy	Ancona
+Italy	Napoli (NA)
+Italy	Catania (CT)
+Italy	Arezzo (AR)
+Italy	Montenero di Bisaccia
+Italy	Vigevano
+Italy	Napoli (NA)
+Italy	Torino (TO)
+Italy	Verona (VR)
+Italy	Roma (RM)
+Italy	Sassari
+Italy	Mantova (MN)
+Italy	Cremona (CR)
+Italy	Gravellona Toce
+Jordan	Amman
+Jordan	Amman
+Jordan	Irbid
+Japan	Tokyo
+Japan	Tokyo
+Japan	Tokyo
+Japan	Yokohama
+Japan	Saitama
+Japan	Osaka
+Japan	Tokyo
+Japan	Yokohama
+Japan	Tokyo
+Japan	Chiba
+Japan	Hyogo
+Japan	Fukuoka
+Japan	Fujisawa
+Japan	Fukuoka
+Japan	Tokyo
+Japan	Tokyo
+Japan	Nagoya
+Japan	Gifu
+Japan	Nagoya
+Japan	Ibaraki
+Japan	Hiroshima
+Japan	Saitama
+Japan	Osaka
+Japan	Shizuoka
+Japan	Tsukuba
+Japan	Kobe
+Japan	Osaka
+Japan	Sapporo
+Japan	Utsunomiya
+Japan	Nigata
+Japan	Kagoshima
+Japan	Okayama
+Japan	Mie
+Japan	Ichihara
+Japan	Hamamatsu
+Japan	Chiba
+Japan	Oita
+Japan	Tendo
+Japan	Wakayama
+Japan	Nigata
+Japan	Nagoya
+Japan	Gifu
+Japan	Shiga
+Japan	Kyoto
+Japan	Izumi
+Japan	Oita
+Japan	Saitama
+Japan	Hamamatsu
+Japan	Ishikawa
+Japan	Fukuoka
+Japan	Nara
+Japan	Tokoname
+Japan	Osaka
+Japan	Osaka
+Japan	Osaka
+Japan	Morioka
+Japan	Imabari
+Japan	Izumo
+Japan	Chiba
+Japan	Chiba
+Japan	Hiratsuka
+Japan	Itami
+Japan	Komatsu
+Japan	Yamanashi
+Japan	Tokushima
+Japan	Hyogo
+Japan	Okinawa
+Japan	Chiba
+Japan	Ayauta Gun
+Japan	Suzuka
+Japan	Saitama
+Japan	Iwata
+Japan	Ebina
+Japan	Nagano
+Japan	Zama
+Japan	Iwaki
+Japan	Tokyo
+Japan	Miyagi
+Japan	Miyazaki
+Japan	Funabashi
+Japan	Kumamoto
+Japan	Osaka
+Japan	Hiroshima
+Japan	Shimonoseki
+South Korea	SEOUL
+South Korea	SEOUL
+South Korea	Incheon
+South Korea	CHEONAN
+South Korea	SEOUL
+South Korea	SEOUL
+South Korea	BUSAN
+South Korea	Goyang
+South Korea	Incheon
+South Korea	SEOUL
+South Korea	SEOUL
+South Korea	Ulsan
+South Korea	Gwangju
+South Korea	DAEGU
+South Korea	Cheongju
+South Korea	SEOUL
+South Korea	SEOUL
+South Korea	SEOUL
+South Korea	Jeonju
+South Korea	Seongnam
+South Korea	BUSAN
+South Korea	SEOUL
+South Korea	BUSAN
+South Korea	Hanam
+South Korea	Incheon
+South Korea	Goyang
+South Korea	SEOUL
+South Korea	Daejeon
+Kuwait	Kuwait City
+Kuwait	Kuwait City
+Kuwait	Kuwait City
+Kuwait	Kuwait City
+Kuwait	Kuwait City
+Kuwait	Kuwait City
+Kuwait	Kuwait City
+Kuwait	Kuwait City
+Kuwait	Kuwait City
+Kuwait	Kuwait City
+Kuwait	Fahaheel
+Kuwait	Kuwait City
+Kuwait	Kuwait City
+Kazakhstan	Almaty
+Kazakhstan	Astana
+Kazakhstan	Almaty
+Lebanon	Beirut
+Lebanon	Beirut
+Lebanon	Nabatieh
+Lebanon	Beirut
+Lebanon	Beirut
+Lebanon	Saida
+Lebanon	Beirut
+Lebanon	Beirut
+Lebanon	Beirut
+Lebanon	Beirut
+Lebanon	Beirut
+Lebanon	Beirut
+Lithuania	Vilnius
+Lithuania	Klaipeda
+Lithuania	Vilnius
+Lithuania	Vilnius
+Lithuania	Siauliai
+Lithuania	Vilnius
+Lithuania	Panevezys
+Lithuania	Kaunas
+Lithuania	Kaunas
+Luxembourg	Mersch
+Luxembourg	Luxembourg
+Luxembourg	Luxembourg
+Luxembourg	Esch-sur-Alzette
+Luxembourg	Huldange
+Luxembourg	Luxembourg
+Luxembourg	Esch-sur-Alzette
+Luxembourg	Bertrange
+Luxembourg	Pommerloch
+Latvia	Riga
+Latvia	Riga
+Latvia	Riga
+Latvia	Riga
+Latvia	Riga
+Latvia	Riga
+Latvia	Riga
+Morocco	Casablanca
+Morocco	Casablanca
+Morocco	Marrakesh
+Morocco	Casablanca
+Macao	Macao
+Macao	Macao
+Mexico	México
+Mexico	Guadalajara
+Mexico	Querétaro
+Mexico	Leon
+Mexico	México
+Mexico	Morelia
+Mexico	México
+Mexico	Nuevo León
+Mexico	México
+Mexico	Playa del Carmen
+Mexico	Guadalajara
+Mexico	Puebla
+Mexico	Toluca
+Mexico	Veracruz
+Mexico	Veracruz
+Mexico	Mazatlan
+Mexico	México
+Mexico	México
+Mexico	Cancún
+Mexico	Tlalnepantla de Baz
+Mexico	Tuxtla Gutiérrez
+Mexico	San Pedro Garza García
+Mexico	México
+Mexico	Leon
+Mexico	Toluca
+Mexico	Irapuato
+Mexico	Ciudad de México
+Mexico	México
+Mexico	Querétaro
+Mexico	México
+Mexico	Cuernavaca
+Mexico	Atizapán de Zaragoza
+Mexico	Monterrey
+Mexico	Monterrey
+Mexico	Benito Juárez Narvarte
+Mexico	Puerto Vallarta
+Mexico	Saltillo
+Mexico	Pachuca
+Mexico	Mérida
+Mexico	Monterrey
+Mexico	Iztapalapa
+Mexico	Puebla
+Mexico	Torreon
+Malaysia	Kuala Lumpur
+Malaysia	Kuala Lumpur
+Malaysia	Kuala Lumpur
+Malaysia	Kuala Lumpur
+Malaysia	Penang
+Malaysia	Kuala Lumpur
+Malaysia	Penang
+Malaysia	Kuala Lumpur
+Malaysia	Kuala Lumpur
+Malaysia	Kuala Lumpur
+Malaysia	Melaka
+Malaysia	Johor Bahru
+Malaysia	Kuching
+Malaysia	Kuala Lumpur
+Malaysia	Kota Kinabalu
+Malaysia	Kuala Lumpur
+Malaysia	Kota Kinabalu
+Malaysia	Kedah
+Malaysia	Kuala Lumpur
+Malaysia	Melaka
+Malaysia	Ipoh
+Malaysia	Kuching
+Malaysia	Kluang, Johor
+Malaysia	Kuala Lumpur
+Malaysia	Kuala Lumpur
+Malaysia	Kota Bharu
+Malaysia	Kuala Lumpur
+Malaysia	Kuala Lumpur
+Malaysia	Kuala Lumpur
+Malaysia	Johor Bahru
+Malaysia	Kuala Lumpur
+Malaysia	Kuala Lumpur
+Malaysia	Johor Bahru
+Malaysia	Pahang
+Malaysia	Johor Bahru
+Malaysia	Miri
+Malaysia	Kuala Lumpur
+Netherlands	Groningen
+Netherlands	Breda
+Netherlands	Middelburg
+Netherlands	Leidschendam
+Netherlands	Spijkenisse
+Netherlands	Alphen a/d Rijn
+Netherlands	Enschede
+Netherlands	Rotterdam
+Netherlands	Alkmaar
+Netherlands	Groningen
+Netherlands	Rotterdam
+Netherlands	Dordrecht
+Netherlands	Amsterdam
+Netherlands	Breda
+Netherlands	Veenendaal
+Netherlands	Doetinchem
+Netherlands	Den Haag
+Netherlands	Amersfoort
+Netherlands	Haarlem
+Netherlands	Amsterdam
+Netherlands	Utrecht
+Netherlands	Sittard
+Netherlands	Amstelveen
+Netherlands	Den Bosch
+Netherlands	Hengelo
+Netherlands	Rijswijk
+Netherlands	Eindhoven
+Netherlands	Leidschendam
+Netherlands	Amsterdam
+Netherlands	Utrecht
+Netherlands	Amsterdam
+Netherlands	Eindhoven
+Netherlands	Utrecht
+Netherlands	Zwolle
+Netherlands	Leeuwarden
+Netherlands	Bergen op Zoom
+Netherlands	Delft
+Netherlands	Nijmegen
+Netherlands	Maastricht
+Netherlands	Almelo
+Netherlands	Amsterdam
+Netherlands	Arnhem
+Netherlands	Den Haag
+Netherlands	Eindhoven
+Netherlands	Vlissingen
+Netherlands	Roosendaal
+Netherlands	Haarlem
+Netherlands	Rotterdam
+Netherlands	Almere
+Netherlands	Zaandam
+Netherlands	Heerenveen
+Netherlands	Schiedam
+Netherlands	Den Helder
+Netherlands	Tilburg
+Netherlands	Arnhem
+Netherlands	Rotterdam
+Netherlands	Emmen
+Netherlands	Almere
+Netherlands	Arnhem
+Netherlands	Leeuwarden
+Netherlands	Vlaardingen
+Netherlands	Amsterdam
+Netherlands	Alkmaar
+Netherlands	Ede
+Netherlands	Lelystad
+Netherlands	Heerhugowaard
+Netherlands	Amsterdam
+Netherlands	Venlo
+Netherlands	Drachten
+Netherlands	Haarlem
+Netherlands	Hoogeveen
+Netherlands	Goes
+Netherlands	Groningen
+Netherlands	Naaldwijk (zh)
+Netherlands	Venray
+Netherlands	Hoogvliet
+Netherlands	Zwolle
+Netherlands	Amsterdam
+Netherlands	Hoofddorp
+Netherlands	Breda
+Netherlands	Apeldoorn
+Netherlands	Gouda
+Netherlands	Utrecht
+Netherlands	Zeist
+Netherlands	Den Bosch
+Netherlands	Amsterdam
+Netherlands	Amsterdam
+Netherlands	Capelle A/D IJssel
+Netherlands	Etten Leur
+Netherlands	Winschoten
+Netherlands	Nijmegen
+Netherlands	Groningen
+Netherlands	Tiel
+Netherlands	Rotterdam
+Netherlands	Winterswijk
+Netherlands	Zoetermeer
+Netherlands	Zutphen
+Netherlands	Assen
+Netherlands	Helmond
+Netherlands	Waalwijk
+Netherlands	Meppel
+Netherlands	Uden
+Netherlands	Purmerend
+Netherlands	Utrecht
+Netherlands	Den Haag
+Netherlands	Amsterdam
+Netherlands	Nieuwegein
+Netherlands	Oosterhout
+Netherlands	Hilversum
+Netherlands	Leiden
+Netherlands	Roermond
+Netherlands	Deventer
+Netherlands	Apeldoorn
+Netherlands	Utrecht
+Netherlands	Hellevoetsluis
+Netherlands	Heerlen
+Netherlands	Beverwijk
+Norway	Oslo
+Norway	Oslo
+Norway	Vinterbro
+Norway	Oslo
+Norway	Lillestrøm
+Norway	Oslo
+Norway	Oslo
+Norway	Oslo
+Norway	Oslo
+Norway	Strømmen
+Norway	Oslo
+Norway	Lørenskog
+Norway	Sandvika
+Norway	Ski
+Norway	Trondheim
+Norway	Tromsø
+Norway	Trondheim
+Norway	Trondheim
+Norway	Kristiansand
+Norway	Oslo
+Norway	Sandnes
+Norway	Sarpsborg
+Norway	Bodø
+Norway	Larvik
+Norway	Ålesund
+Norway	Tønsberg
+Norway	Kristiansand
+Norway	Sandnes
+Norway	Haugesund
+Norway	Bergen
+Norway	Moss
+Norway	Fredrikstad
+Norway	Sandefjord
+Norway	Drammen
+Norway	Molde
+Norway	Fredrikstad
+Norway	Tromsø
+Norway	Lierskogen
+Norway	Bergen
+Norway	Skien
+Norway	Ålesund
+Norway	Krokstadelva
+Norway	Haugesund
+Norway	Førde
+Norway	Tromsø
+Norway	Narvik
+Norway	Karmsund
+Norway	Gjøvik
+Norway	Steinkjer
+Norway	Lillehammer
+Norway	Horten
+Norway	Kongsvinger
+Norway	Asker
+Norway	Bodø
+Norway	Stavanger
+Norway	Bergen
+Norway	Namsos
+Norway	Bergen
+Norway	Sortland
+Norway	Jessheim
+Norway	Trondheim
+Norway	Oslo
+Norway	Trondheim
+Norway	Elverum
+Norway	Hønefoss
+Norway	Bergen
+Norway	Kristiansund
+Norway	Hamar
+Norway	Porsgrunn
+Norway	Arendal
+Norway	Stavanger
+Norway	Moss
+Norway	Kongsberg
+Norway	Stavanger
+Norway	Skien
+Norway	Bergen
+Norway	Alta
+Norway	Bryne
+Norway	Oslo
+Norway	Kristiansand
+Norway	Bergen
+Norway	Levanger
+Norway	Sogndal
+Norway	Drammen
+Norway	Oslo
+Norway	Oslo
+Norway	Oslo
+Norway	Mo i Rana
+Norway	Tromsø
+Norway	Stord
+Norway	Trondheim
+Norway	Porsgrunn
+Norway	Lørenskog
+Norway	Asker
+Norway	Halden
+Norway	Askim
+Norway	Hamar
+Norway	Orkanger
+Norway	Mandal
+Norway	Oslo
+Norway	Oslo
+Norway	Bergen
+Norway	Oslo
+Norway	Voss
+Norway	Harstad
+Norway	Fredrikstad
+Norway	Stjørdal
+New Zealand	Auckland
+New Zealand	Auckland
+New Zealand	Christchurch
+New Zealand	Wellington
+Oman	Muscat
+Oman	Muscat
+Oman	Muscat
+Oman	Muscat
+Peru	Lima
+Peru	Lima
+Peru	Lima
+Peru	Lima
+Peru	Trujillo
+Peru	Piura
+Peru	Arequipa
+Peru	Cajamarca
+Peru	Arequipa
+Philippines	Manila
+Philippines	Manila
+Philippines	Manila
+Philippines	Manila
+Philippines	Manila
+Philippines	Manila
+Philippines	Manila
+Philippines	Manila
+Philippines	Manila
+Philippines	Cebu
+Philippines	Cebu
+Philippines	Manila
+Philippines	Dasmarinas
+Philippines	Bacolod
+Philippines	Angeles
+Philippines	San Fernando
+Philippines	Manila
+Philippines	Manila
+Philippines	Angeles
+Philippines	Davao
+Philippines	Cagayan De Oro
+Philippines	Manila
+Philippines	Cebu
+Philippines	Manila
+Philippines	Ilo Ilo
+Philippines	Manila
+Philippines	San Nicolas
+Philippines	City of Balanga
+Philippines	Santa Rosa
+Philippines	Manila
+Philippines	Manila
+Philippines	Manila
+Philippines	Tacloban
+Poland	Warsaw
+Poland	Warsaw
+Poland	Warsaw
+Poland	Poznan
+Poland	Warsaw
+Poland	Szczecin
+Poland	Wroclaw
+Poland	Gdansk
+Poland	Gdansk
+Poland	Warsaw
+Poland	Warsaw
+Poland	Gdynia
+Poland	Warsaw
+Poland	Krakow
+Poland	Czeladz
+Poland	Katowice
+Poland	Lodz
+Poland	Krakow
+Poland	Poznan
+Poland	Olsztyn
+Poland	Poznan
+Poland	Gdansk
+Poland	Poznan
+Poland	Krakow
+Poland	Sosnowiec
+Poland	Zabrze
+Poland	Katowice
+Poland	Bydgoszcz
+Poland	Torun
+Poland	Rybnik
+Poland	Bytom
+Poland	Wroclaw
+Poland	Lublin
+Poland	Bialystok
+Poland	Gliwice
+Poland	Piaseczno
+Poland	Wroclaw
+Poland	Gdansk
+Poland	Rzeszów
+Poland	Lodz
+Poland	Bydgoszcz
+Poland	Rumia
+Poland	Bialystok
+Poland	Opole
+Poland	Slupsk
+Poland	Poznan
+Poland	Zakopane
+Poland	Legnica
+Poland	Nowy Sacz
+Poland	Tarnów
+Poland	Konin
+Poland	Koszalin
+Poland	Zgorzelec
+Poland	Suwałki
+Poland	Torun
+Poland	Zielona Góra
+Poland	Piotrków Trybunalski
+Poland	Bytom
+Poland	Czestochowa
+Poland	Lubin
+Poland	Dąbrowa Górnicza
+Poland	Włocławek
+Poland	Puławy
+Poland	Bielsko-Biała
+Poland	Wałbrzych
+Poland	Lodz
+Poland	Ostrów Wielkopolski
+Poland	Gorzów Wielkopolski
+Poland	Kielce
+Poland	Przemyśl
+Poland	Radom
+Poland	Bielsko-Biała
+Poland	Krakow
+Poland	Czestochowa
+Poland	Rzeszów
+Poland	Plock
+Poland	Szczecin
+Poland	Gniezno
+Poland	Zamość
+Poland	Lodz
+Poland	Oświęcim
+Poland	Leszno
+Poland	Katowice
+Poland	Wroclaw
+Poland	Jelenia Gora
+Poland	Gliwice
+Poland	Gdynia
+Poland	Grudziądz
+Poland	Kalisz
+Poland	Stargard Szczeciński
+Poland	Rzeszów
+Poland	Rzeszów
+Poland	Sieradz
+Poland	Żyrardów
+Poland	Tczew
+Poland	Bielsko-Biała
+Poland	Bełchatów
+Poland	Łomianki
+Poland	Nowy Sacz
+Poland	Siedlce
+Poland	Radom
+Poland	Warsaw
+Poland	Poznan
+Poland	Kędzierzyn Koźle
+Poland	Lublin
+Poland	Lodz
+Poland	Dębica
+Poland	Skarżysko-Kamienna
+Poland	Inowrocław
+Poland	Podkowa Leśna
+Poland	Warsaw
+Poland	Wroclaw
+Poland	Ciechanów
+Poland	Warsaw
+Poland	Ostrołęka
+Poland	Gdynia
+Poland	Kalisz
+Poland	Radomsko
+Poland	Elbląg
+Poland	Chojnice
+Poland	Sopot
+Poland	Krakow
+Poland	Biała Podlaska
+Poland	Świnoujście
+Poland	Kielce
+Poland	Poznan
+Poland	Pila
+Poland	Pila
+Poland	Ruda Śląska
+Poland	Ełk
+Poland	Szczecin
+Poland	Malbork
+Poland	Gdansk
+Poland	Lublin
+Poland	Bydgoszcz
+Poland	Krakow
+Poland	Bialystok
+Poland	Warsaw
+Poland	Olsztyn
+Poland	Nysa
+Poland	Warsaw
+Poland	Starogard Gdański
+Poland	Sochaczew
+Poland	Legnica
+Poland	Kutno
+Poland	Wołomin
+Poland	Lodz
+Poland	Gdansk
+Poland	Mielec
+Poland	Jaworzno
+Poland	Tomaszow Mazowiecki
+Poland	Warsaw
+Poland	Warsaw
+Poland	Warsaw
+Poland	Nowy Dwor Mazowiecki
+Poland	Stalowa Wola
+Poland	Wroclaw
+Poland	Poznan
+Poland	Lublin
+Poland	Koszalin
+Poland	Jastrzębie Zdroj
+Poland	Kwidzyn
+Poland	Gdansk
+Poland	Klodzko
+Poland	Myslowice
+Poland	Wroclaw
+Poland	Tychy
+Poland	Zielona Góra
+Poland	Krosno
+Poland	Gorzów Wielkopolski
+Poland	Krakow
+Poland	Tarnowskie Góry
+Poland	Wałbrzych
+Poland	Glogow
+USA	San Juan
+USA	Bayamón
+Portugal	Lisbon
+Portugal	Montijo
+Portugal	Lisbon
+Portugal	Porto
+Portugal	Lisbon
+Portugal	Porto
+Portugal	Coimbra
+Portugal	Lisbon
+Portugal	Torre da Marinha_Seixal
+Portugal	Almada
+Portugal	Lisbon
+Portugal	Lisbon
+Portugal	Porto
+Portugal	Porto
+Portugal	Porto
+Portugal	Sintra
+Portugal	Viseu
+Portugal	Lisbon
+Portugal	Braga
+Portugal	Guimaraes
+Portugal	Leiria
+Portugal	Portimao
+Portugal	Fuchal
+Portugal	Fuchal
+Portugal	Albufeira
+Portugal	Castelo Branco
+Portugal	Aveiro
+Portugal	Setubal
+Portugal	Loulé
+Portugal	Braga
+Qatar	Doha
+Qatar	Doha
+Qatar	Doha
+Qatar	Doha
+Qatar	Doha
+Qatar	Al Wakra
+Romania	Bucharest
+Romania	Bucharest
+Romania	Bucharest
+Romania	Bucharest
+Romania	Bucharest
+Romania	Brasov
+Romania	Cluj-Napoca
+Romania	Timisoara
+Romania	Iasi
+Romania	Constanta
+Romania	Arad
+Romania	Craiova
+Romania	Oradea
+Romania	Braila
+Romania	Suceava
+Romania	Sibiu
+Romania	Cluj-Napoca
+Romania	Ploiesti
+Romania	Bacau
+Romania	Baia Mare
+Romania	Targu Mures
+Romania	Ploiesti
+Romania	Botosani
+Romania	Buzau
+Romania	Bucharest
+Romania	Bucharest
+Romania	Bucharest
+Romania	Galati
+Romania	Bucharest
+Romania	Bucharest
+Romania	Pitești
+Romania	Pitești
+Romania	Râmnicu Vâlcea
+Romania	Tulcea
+Romania	Bucharest
+Romania	Galati
+Romania	Piatra Neamt
+Romania	Targu Jiu
+Romania	Brasov
+Romania	Focsani
+Romania	Deva
+Romania	Bucharest
+Romania	Craiova
+Romania	Bucharest
+Romania	Timisoara
+Romania	Satu Mare
+Romania	Iasi
+Romania	Bucharest
+Romania	Ploiesti
+Romania	Constanta
+Romania	Cluj-Napoca
+Romania	Constanta
+Romania	Piatra Neamt
+Romania	Bistrita
+Serbia	Belgrade
+Serbia	Belgrade
+Serbia	Novi Sad
+Serbia	Pancevo
+Serbia	Nis
+Serbia	Belgrade
+Serbia	Subotica
+Serbia	Zrenjanin
+Serbia	Novi Sad
+Serbia	Kragujevac
+Serbia	Belgrade
+Serbia	Smederevo
+Serbia	Sabac
+Russian Federation	Moscow
+Russian Federation	Moscow
+Russian Federation	Moscow
+Russian Federation	Moscow
+Russian Federation	St Petersburg
+Russian Federation	Moscow
+Russian Federation	St Petersburg
+Russian Federation	St Petersburg
+Russian Federation	Moscow
+Russian Federation	Moscow
+Russian Federation	St Petersburg
+Russian Federation	Moscow
+Russian Federation	St Petersburg
+Russian Federation	Rostov-on-Don
+Russian Federation	St Petersburg
+Russian Federation	Voronezh
+Russian Federation	Kazan
+Russian Federation	Ekaterinburg
+Russian Federation	Ekaterinburg
+Russian Federation	Krasnodar
+Russian Federation	Krasnodar
+Russian Federation	Kazan
+Russian Federation	Ekaterinburg
+Russian Federation	Moscow
+Russian Federation	Togliatti
+Russian Federation	Volgograd
+Russian Federation	Ufa
+Russian Federation	Krasnodar
+Russian Federation	St Petersburg
+Russian Federation	Nizhny Novgorod
+Russian Federation	Ekaterinburg
+Russian Federation	Ryazan
+Russian Federation	Surgut
+Russian Federation	Samara
+Russian Federation	Moscow
+Russian Federation	St Petersburg
+Russian Federation	Nizhny Novgorod
+Russian Federation	St Petersburg
+Russian Federation	Sochi
+Russian Federation	Ekaterinburg
+Russian Federation	Moscow
+Russian Federation	Moscow
+Russian Federation	Penza
+Russian Federation	Surgut
+Russian Federation	Samara
+Russian Federation	Ufa
+Russian Federation	Tyumen
+Russian Federation	Moscow
+Russian Federation	Ekaterinburg
+Russian Federation	Mytishchi
+Russian Federation	St Petersburg
+Russian Federation	St Petersburg
+Russian Federation	Moscow
+Russian Federation	Volgograd
+Russian Federation	Rostov-on-Don
+Russian Federation	Moscow
+Russian Federation	Chelyabinsk
+Russian Federation	Taganrog
+Russian Federation	Yaroslavl
+Russian Federation	Samara
+Russian Federation	Krasnodar
+Russian Federation	Kazan
+Russian Federation	Reutov
+Russian Federation	Moscow
+Russian Federation	Irkutsk
+Russian Federation	Tomsk
+Russian Federation	St Petersburg
+Russian Federation	Krasnoyarsk
+Russian Federation	Nizhny Novgorod
+Russian Federation	Moscow
+Russian Federation	Moscow
+Russian Federation	Arkhangelsk
+Russian Federation	Pskov
+Russian Federation	Arkhangelsk
+Russian Federation	Lipetsk
+Russian Federation	Novokuznetsk
+Russian Federation	Novosibirsk
+Russian Federation	Smolensk
+Russian Federation	Moscow
+Russian Federation	Moscow
+Russian Federation	Izhevsk
+Russian Federation	Petrozavodsk
+Russian Federation	Barnaul
+Russian Federation	Saratov
+Russian Federation	Moscow
+Russian Federation	Chelyabinsk
+Russian Federation	Moscow
+Russian Federation	Novosibirsk
+Russian Federation	Moscow
+Russian Federation	Moscow
+Russian Federation	Novorossiysk
+Russian Federation	Ulan-Ude
+Russian Federation	Irkutsk
+Russian Federation	Orel
+Russian Federation	Tula
+Russian Federation	Moscow
+Russian Federation	Barnaul
+Russian Federation	Saratov
+Russian Federation	Ivanovo
+Russian Federation	Barnaul
+Russian Federation	Moscow
+Russian Federation	St Petersburg
+Russian Federation	Voronezh
+Russian Federation	Samara
+Russian Federation	Kursk
+Russian Federation	Moscow
+Russian Federation	Murmansk
+Russian Federation	Tyumen
+Russian Federation	St Petersburg
+Russian Federation	Saransk
+Russian Federation	Belgorod
+Russian Federation	Moscow
+Russian Federation	Moscow
+Russian Federation	Perm
+Russian Federation	Moscow
+Russian Federation	Bryansk
+Russian Federation	Nizhniy Tagil
+Russian Federation	Naberezhnye Chelny
+Russian Federation	Stavropol
+Russian Federation	Moscow
+Russian Federation	Nizhnevartovsk
+Russian Federation	Ufa
+Russian Federation	Rostov-on-Don
+Russian Federation	Moscow
+Saudi Arabia	Riyadh
+Saudi Arabia	Mecca
+Saudi Arabia	Madina
+Saudi Arabia	Jeddah
+Saudi Arabia	Jeddah
+Saudi Arabia	Jeddah
+Saudi Arabia	Riyadh
+Saudi Arabia	Jeddah
+Saudi Arabia	Mecca
+Saudi Arabia	Jeddah
+Saudi Arabia	Riyadh
+Saudi Arabia	Riyadh
+Saudi Arabia	Hail
+Saudi Arabia	Tabuk
+Saudi Arabia	Dammam
+Saudi Arabia	Dammam
+Saudi Arabia	Yanbu
+Saudi Arabia	Hofuf
+Saudi Arabia	Jeddah
+Saudi Arabia	Riyadh
+Saudi Arabia	Riyadh
+Saudi Arabia	Jeddah
+Saudi Arabia	Hafr Al Batin
+Saudi Arabia	Khamies Mushayt
+Saudi Arabia	Riyadh
+Saudi Arabia	Madina
+Saudi Arabia	Jeddah
+Saudi Arabia	Riyadh
+Saudi Arabia	Hail
+Saudi Arabia	Taif
+Saudi Arabia	Jeddah
+Saudi Arabia	Abha
+Saudi Arabia	Al Kharj
+Saudi Arabia	Al Rass
+Saudi Arabia	Onizah
+Saudi Arabia	Riyadh
+Saudi Arabia	Arar
+Saudi Arabia	Jeddah
+Saudi Arabia	Riyadh
+Saudi Arabia	Riyadh
+Saudi Arabia	Jeddah
+Saudi Arabia	Abha
+Saudi Arabia	Jizan
+Saudi Arabia	Jubail
+Saudi Arabia	Khobar
+Saudi Arabia	Khobar
+Saudi Arabia	Riyadh
+Saudi Arabia	Dammam
+Saudi Arabia	Dammam
+Saudi Arabia	Dammam
+Saudi Arabia	Tabuk
+Saudi Arabia	Onizah
+Saudi Arabia	Onizah
+Saudi Arabia	Hofuf
+Saudi Arabia	Majmaah
+Saudi Arabia	Riyadh
+Saudi Arabia	Madina
+Saudi Arabia	Khobar
+Saudi Arabia	Riyadh
+Sweden	Stockholm
+Sweden	Stockholm
+Sweden	Stockholm
+Sweden	Stockholm
+Sweden	Stockholm
+Sweden	Sigtuna
+Sweden	Stockholm
+Sweden	Stockholm
+Sweden	Österåker
+Sweden	Sundbyberg
+Sweden	Stockholm
+Sweden	Stockholm
+Sweden	Stockholm
+Sweden	Stockholm
+Sweden	Stockholm
+Sweden	Enköping
+Sweden	Stockholm
+Sweden	Stockholm
+Sweden	Stockholm
+Sweden	Stockholm
+Sweden	Stockholm
+Sweden	Stockholm
+Sweden	Stockholm
+Sweden	Stockholm
+Sweden	Stockholm
+Sweden	Stockholm
+Sweden	Stockholm
+Sweden	Stockholm
+Sweden	Stockholm
+Sweden	Stockholm
+Sweden	Stockholm
+Sweden	Stockholm
+Sweden	Stockholm
+Sweden	Stockholm
+Sweden	Stockholm
+Sweden	Stockholm
+Sweden	Uppsala
+Sweden	Gotland
+Sweden	Stockholm
+Sweden	Göteborg
+Sweden	Göteborg
+Sweden	Skövde
+Sweden	Göteborg
+Sweden	Göteborg
+Sweden	Göteborg
+Sweden	Göteborg
+Sweden	Katrineholm
+Sweden	Göteborg
+Sweden	Göteborg
+Sweden	Alingsås
+Sweden	Kalmar
+Sweden	Nässjö
+Sweden	Jönköping
+Sweden	Malmö
+Sweden	Malmö
+Sweden	Malmö
+Sweden	Malmö
+Sweden	Norrköping
+Sweden	Malmö
+Sweden	Burlöv
+Sweden	Kristianstad
+Sweden	Malmö
+Sweden	Malmö
+Sweden	Åstorp
+Sweden	Piteå
+Sweden	Kalmar
+Sweden	Boden
+Sweden	Karlshamn
+Sweden	Ängelholm
+Sweden	Växjö
+Sweden	Växjö
+Sweden	Oskarshamn
+Sweden	Kristinehamn
+Sweden	Karlstad
+Sweden	Borås
+Sweden	Borås
+Sweden	Hudiksvall
+Sweden	Örebro
+Sweden	Örebro
+Sweden	Falun
+Sweden	Eda
+Sweden	Värnamo
+Sweden	Karlstad
+Sweden	Halmstad
+Sweden	Halmstad
+Sweden	Skövde
+Sweden	Lund
+Sweden	Lund
+Sweden	Eskilstuna
+Sweden	Västerås
+Sweden	Uppsala
+Sweden	Västerås
+Sweden	Sala
+Sweden	Uppsala
+Sweden	Jönköping
+Sweden	Falköping
+Sweden	Varberg
+Sweden	Motala
+Sweden	Norrköping
+Sweden	Eskilstuna
+Sweden	Härnösand
+Sweden	Norrtälje
+Sweden	Helsingborg
+Sweden	Landskrona
+Sweden	Kungsbacka
+Sweden	Stenungsund
+Sweden	Tanum
+Sweden	Umeå
+Sweden	Trollhättan
+Sweden	Umeå
+Sweden	Sundsvall
+Sweden	Södertälje
+Sweden	Östersund
+Sweden	Kristianstad
+Sweden	Hässleholm
+Sweden	Umeå
+Sweden	Borlänge
+Sweden	Söderhamn
+Sweden	Helsingborg
+Sweden	Avesta
+Sweden	Kiruna
+Sweden	Skellefteå
+Sweden	Luleå
+Sweden	Luleå
+Sweden	Köping
+Sweden	Västervik
+Sweden	Mora
+Sweden	Gävle
+Sweden	Sundsvall
+Sweden	Ystad
+Sweden	Uddevalla
+Sweden	Gävle
+Sweden	Örnsköldsvik
+Sweden	Lidköping
+Sweden	Nyköping
+Sweden	Linköping
+Sweden	Linköping
+Sweden	Vetlanda
+Sweden	Karlskrona
+Sweden	Nordby
+Sweden	Norrköping
+Sweden	Karlskoga
+Singapore	Singapore
+Singapore	Singapore
+Singapore	Singapore
+Singapore	Singapore
+Singapore	Singapore
+Singapore	Singapore
+Singapore	Singapore
+Singapore	Singapore
+Singapore	Singapore
+Slovenia	Ljubljana
+Slovenia	Ljubljana
+Slovenia	Maribor
+Slovenia	Celje
+Slovenia	Maribor
+Slovenia	Ljubljana
+Slovenia	Nova Gorica
+Slovenia	Koper
+Slovenia	Murska Sobota
+Slovenia	Novo Mesto
+Slovenia	Velenje
+Slovakia	Bratislava
+Slovakia	Bratislava
+Slovakia	Bratislava
+Slovakia	Kosice
+Slovakia	Nitra
+Slovakia	Žilina
+Slovakia	Bratislava
+Slovakia	Bratislava
+Slovakia	Bratislava
+Slovakia	Trenčín
+Slovakia	Prievidza
+Slovakia	Banská Bystrica
+Slovakia	Kosice
+Slovakia	Trnava
+Slovakia	Poprad
+Slovakia	Spišská Nová Ves
+Slovakia	Levice
+Slovakia	Lučenec
+Slovakia	Prešov
+Slovakia	Martin
+Slovakia	Nitra
+Slovakia	Kosice
+Slovakia	Trnava
+Slovakia	Žilina
+Thailand	Bangkok
+Thailand	Bangkok
+Thailand	Bangkok
+Thailand	Bangkok
+Thailand	Bangkok
+Thailand	Bangkok
+Thailand	Bangkok
+Thailand	Bangkok
+Thailand	Bangkok
+Thailand	Pattaya
+Thailand	Phuket
+Thailand	Bangkok
+Thailand	Bangkok
+Thailand	Bangkok
+Thailand	Bangkok
+Thailand	Bangkok
+Thailand	Hua Hin
+Thailand	Korat
+Thailand	Korat
+Thailand	Bangkok
+Thailand	Bangkok
+Thailand	Bangkok
+Thailand	Chiang Mai
+Thailand	Bangkok
+Turkey	Istanbul
+Turkey	Istanbul
+Turkey	Istanbul
+Turkey	Istanbul
+Turkey	Istanbul
+Turkey	Ankara
+Turkey	Ankara
+Turkey	Istanbul
+Turkey	Ankara
+Turkey	Gaziantep
+Turkey	Istanbul
+Turkey	Istanbul
+Turkey	Antalya
+Turkey	Samsun
+Turkey	Ankara
+Turkey	Istanbul
+Turkey	Ankara
+Turkey	Istanbul
+Turkey	Antalya
+Turkey	Istanbul
+Turkey	Hatay
+Turkey	Istanbul
+Turkey	Istanbul
+Turkey	Istanbul
+Turkey	Ankara
+Turkey	Sakarya
+Turkey	Istanbul
+Turkey	Izmir
+Turkey	Çanakkale
+Turkey	Muğla
+Turkey	Izmir
+Turkey	Istanbul
+Turkey	Izmit
+Turkey	Kahramanmaras
+Turkey	Istanbul
+Turkey	Izmit
+Turkey	Afyon
+Turkey	Ankara
+Turkey	Bolu
+Turkey	Ankara
+Turkey	Konya
+Turkey	Bursa
+Turkey	Hatay
+Turkey	Adana
+Turkey	Balikesir
+Turkey	Istanbul
+Turkey	Antalya
+Turkey	Antalya
+Turkey	Denizli
+Turkey	Çorum
+Turkey	Istanbul
+Turkey	Istanbul
+Turkey	Istanbul
+Turkey	Bursa
+Turkey	Istanbul
+Turkey	Bursa
+Turkey	Sivas
+Turkey	Edirne
+Turkey	Antalya
+Turkey	Izmir
+Turkey	Ankara
+Turkey	Adana
+Turkey	Istanbul
+Turkey	Istanbul
+Taiwan	Taipei
+Taiwan	Taipei
+Taiwan	Kaohsiung
+Taiwan	Taichung
+Taiwan	Kaohsiung
+Taiwan	Taipei
+Taiwan	Taichung
+Taiwan	Hsinchu
+Taiwan	Kaohsiung
+Taiwan	Taoyuan
+Taiwan	Taichung
+Taiwan	Hualien
+USA	San Juan
+USA	Bayamón
+USA	New York City
+USA	Paramus
+USA	West Nyack
+USA	New York City
+USA	Syracuse
+USA	Albany
+USA	Holyoke
+USA	Utica
+USA	Poughkeepsie
+USA	Waterbury
+USA	Lake Grove
+USA	Hicksville
+USA	Dulles
+USA	Massapequa
+USA	White Plains
+USA	Elizabeth
+USA	Kingston
+USA	Philipsburg
+USA	Livingston
+USA	Braintree
+USA	Queens
+USA	Brooklyn
+USA	Cherry Hill
+USA	Plymouth Meeting
+USA	New York City
+USA	Saugus
+USA	Garden City
+USA	Wilmington
+USA	Woodbridge
+USA	Bensalem
+USA	Lancaster
+USA	New York City
+USA	Philadelphia
+USA	Paramus
+USA	Exton
+USA	Hanover
+USA	Washington
+USA	Woodbridge
+USA	Manassas
+USA	Valley Stream
+USA	Chicago
+USA	Schaumburg
+USA	Waterford
+USA	New York City
+USA	Philadelphia
+USA	Richmond
+USA	Manchester
+USA	Chicago
+USA	Gurnee
+USA	Atlantic City
+USA	Cambridge
+USA	Orland Park
+USA	Aurora
+USA	Cleveland
+USA	Fort Wayne
+USA	Riverside
+USA	San Francisco
+USA	Virginia Beach
+USA	Indianapolis
+USA	Vernon Hills
+USA	Minneapolis
+USA	Geneva
+USA	Des Peres
+USA	Fairfax
+USA	McLean
+USA	Milwaukee
+USA	St Louis
+USA	Sterling Heights
+USA	Dublin
+USA	Madison
+USA	Philadelphia
+USA	Norfolk
+USA	New York City
+USA	Beachwood
+USA	Boston
+USA	San Francisco
+USA	New York City
+USA	Concord
+USA	Pittsburgh
+USA	Los Angeles
+USA	Glendale
+USA	Canoga Park
+USA	Ann Arbor
+USA	Milford
+USA	Annapolis
+USA	North Olmsted
+USA	Columbus
+USA	Strongsville
+USA	Arcadia
+USA	Brea
+USA	Oakbrook
+USA	Willow Grove
+USA	Glendale
+USA	Columbia
+USA	Towson
+USA	Roseville
+USA	Toledo
+USA	Novi
+USA	Peabody
+USA	Staten Island
+USA	San Francisco
+USA	Dearborn
+USA	West Hollywood
+USA	Auburn Hills
+USA	Stamford
+USA	Farmington
+USA	Clinton Township
+USA	Las Vegas
+USA	Pleasanton
+USA	Emeryville
+USA	Costa Mesa
+USA	Edison
+USA	Bolingbrook
+USA	Brooklyn
+USA	Rockaway
+USA	Las Vegas
+USA	Milpitas
+USA	Indianapolis
+USA	North Attleboro
+USA	Montclair
+USA	Seattle
+USA	Tukwila
+USA	Atlanta
+USA	Santa Monica
+USA	San Diego
+USA	Chino Hills
+USA	Chula Vista
+USA	Eatontown
+USA	Alpharetta
+USA	Wayne
+USA	Seattle
+USA	Tacoma
+USA	National City
+USA	Buford
+USA	Las Vegas
+USA	Scottsdale
+USA	Ontario
+USA	Denver
+USA	Dedham
+USA	Jersey City
+USA	Chicago
+USA	Yonkers
+USA	Rancho Cucamonga
+USA	Cincinnati
+USA	Los Angeles
+USA	Florence
+USA	Warwick
+USA	Orlando
+USA	Sanford
+USA	Gaithersburg
+USA	Atlanta
+USA	Waldorf
+USA	San Jose
+USA	Edina
+USA	Northridge
+USA	Escondido
+USA	San Rafael
+USA	Modesto
+USA	Culver City
+USA	Commerce
+USA	Palm Beach Gardens
+USA	Maplewood
+USA	Raleigh
+USA	Dallas
+USA	Hampton
+USA	Scottsdale
+USA	Tucson
+USA	Orange
+USA	Newark
+USA	Ventura
+USA	Portland
+USA	Trumbull
+USA	West Covina
+USA	Santa Ana
+USA	Freehold
+USA	Hackensack
+USA	Portland
+USA	Mission Viejo
+USA	Tucson
+USA	Daly City
+USA	Baltimore
+USA	Altamonte Springs
+USA	Happy Valley
+USA	Northbrook
+USA	Santa Barbara
+USA	Carlsbad
+USA	Yonkers
+USA	Buffalo
+USA	Broomfield
+USA	Dallas
+USA	Toms River
+USA	Folsom
+USA	Milwaukee
+USA	Jacksonville
+USA	Murray
+USA	Miami Beach
+USA	Denver
+USA	Tampa
+USA	Plano
+USA	Wheaton
+USA	El Segundo
+USA	Redondo Beach
+USA	San Mateo
+USA	Winston-Salem
+USA	Tempe
+USA	Temecula
+USA	Kansas City
+USA	Mesquite
+USA	Monterey
+USA	Salt Lake City
+USA	Mays Landing
+USA	Columbus
+USA	Friendswood
+USA	Portland
+USA	St. Petersburg
+USA	Houston
+USA	King of Prussia
+USA	Mentor
+USA	Grapevine
+USA	Lawrenceville
+USA	Henderson
+USA	Tampa
+USA	Riverhead
+USA	Huntsville
+USA	Lafayette
+USA	Chandler
+USA	Aventura
+USA	Douglasville
+USA	Silver Spring
+USA	New York City
+USA	Austin
+USA	Washington
+USA	Lynnwood
+USA	Rockford
+USA	Springfield
+USA	Augusta
+USA	Spokane
+USA	Naples
+USA	Alexandria
+USA	Farmington
+USA	Glendale
+USA	San Jose
+USA	Charleston
+USA	City of Industry
+USA	Grand Rapids
+USA	Boise
+USA	Minneapolis
+USA	Washington
+USA	Upper Darby
+USA	Orlando
+USA	Overland Park
+USA	Destin
+USA	San Ysidro
+USA	Hillsboro
+USA	Boulder
+USA	Raleigh
+USA	Washington
+USA	Centennial
+USA	Pineville
+USA	Atlanta
+USA	Auburn
+USA	Marlborough
+USA	Amherst
+USA	Louisville
+USA	Minnetonka
+USA	West Palm Beach
+USA	Oxnard
+USA	New Orleans
+USA	Oxon Hill
+USA	Charlotte
+USA	Pembroke Pines
+USA	Eugene
+USA	Monroeville
+USA	Reno
+USA	Wellington
+USA	Lakewood
+USA	Charlotte
+USA	Orem
+USA	Nashville
+USA	Colorado Springs
+USA	Greensboro
+USA	Honolulu
+USA	Paramus
+USA	Langhorn
+USA	Springfield
+USA	Fairfield
+USA	Middletown
+USA	Roanoke
+USA	Albuquerque
+USA	Castle Rock
+USA	Houston
+USA	Washington
+USA	Lehi
+USA	Miami
+USA	Dayton
+USA	Bloomington
+USA	Bellingham
+USA	Westminster
+USA	Houston
+USA	North Charleston
+USA	Palmdale
+USA	El Paso
+USA	Asheville
+USA	Omaha
+USA	Lombard
+USA	Okemos
+USA	Columbia
+USA	Frisco
+USA	Fresno
+USA	Palm Desert
+USA	San Antonio
+USA	Lebec
+USA	Concord
+USA	Rochester
+USA	Stockton
+USA	Tallahasse
+USA	El Paso
+USA	Bronx
+USA	Columbus
+USA	New Orleans
+USA	Calexico
+USA	Erie
+USA	Jackson
+USA	Valencia
+USA	Gainesville
+USA	Washington
+USA	Newington
+USA	Dayton
+USA	Commerce
+USA	Hialeah, FL
+USA	Fayetteville
+USA	Missoula
+USA	Burnsville
+USA	Melbourne
+USA	Los Angeles
+USA	Boynton Beach
+USA	El Cajon
+USA	Salinas
+USA	Lexington
+USA	Sarasota
+USA	Joliet
+USA	Shreveport
+USA	Chesterfield
+USA	New York City
+USA	Merrillville, Indiana
+USA	San Antonio
+USA	Franklin
+USA	Kapolei
+USA	Littleton
+USA	Fort Collins
+USA	Myrtle Beach
+USA	Natick
+USA	Aurora
+USA	Sherman Oaks
+USA	Tampa
+USA	Chicago Ridge, IL
+USA	Sarasota
+USA	Long Beach
+USA	Daytona Beach
+USA	Lincoln
+USA	St Augustine
+USA	Billings
+USA	Huntington Beach
+USA	Cedar Hill
+USA	Deptford
+USA	Roseville
+USA	Savannah
+USA	Oklahoma City
+USA	Taylor
+USA	Collierville, TN
+USA	Grand Rapids
+USA	Hoover
+USA	Denton
+USA	Fort Worth
+USA	Robstown
+USA	Detroit
+USA	San Luis Obispo
+USA	Newark
+USA	Louisville
+USA	Louisville
+USA	Los Angeles
+USA	Mashantucket
+USA	Tempe
+USA	North Bethesda
+USA	San Clemente
+USA	North Riverside, IL
+USA	Miami
+USA	Silverdale
+USA	Foley
+USA	Youngstown
+USA	Houston
+USA	Ft Worth
+USA	Niles
+USA	Cincinnati
+USA	San Antonio
+USA	St Cloud
+USA	Greensburg
+USA	Beaumont
+USA	Chesapeake
+USA	Houston
+USA	Gilbert
+USA	Troy
+USA	Myrtle Beach
+USA	Clarksville
+USA	San Marcos
+USA	Peoria
+USA	San Jose
+USA	Cincinnati
+USA	Boise
+USA	Gretna
+USA	Harrisonburg
+USA	Waco
+USA	Southaven
+USA	College Station
+USA	Brownsville
+USA	Fort Lauderdale
+USA	Pasadena
+USA	Sparks
+USA	Laredo
+USA	Altoona
+USA	Lancaster
+USA	Frederick
+USA	Camp Hill
+USA	Hagerstown
+USA	Los Angeles
+USA	Glendale
+USA	Montgomery
+USA	Hickory
+USA	Hyattsville
+USA	New York City
+USA	Pooler
+USA	Lakewood
+USA	Anchorage
+USA	Las Vegas
+USA	Downey
+USA	Maple Grove
+USA	Fort Worth
+USA	Evansville
+USA	Saginaw
+USA	Macon
+USA	Bee Cave
+USA	Yorktown Heights
+USA	State College
+USA	Bakersfield
+USA	Fort Lauderdale
+USA	Killeen
+USA	Daytona Beach
+USA	Walnut Creek
+USA	Tupelo
+USA	New Haven
+USA	Snellville
+USA	Moorestown
+USA	Jonesboro
+USA	Miami Beach
+USA	Baltimore
+USA	Kansas City
+USA	Fort Worth
+USA	Lawrenceville
+USA	Primm
+USA	Morrow
+USA	Newport News
+USA	York
+USA	Plantation
+USA	Vancouver
+USA	Spartanburg
+USA	Mobile
+USA	Lakeland
+USA	Albany
+USA	Salisbury
+USA	Plainfield
+USA	Corpus Christi
+USA	Monroe
+USA	Bismarck
+USA	Atlanta
+USA	Laredo
+USA	Houma
+USA	Longview
+USA	Puyallup
+USA	Dartmouth
+USA	Wikes-Barre
+USA	Wilmington
+USA	Bluffton
+USA	Lubbock
+USA	Santa Fe
+USA	Grand Traverse
+USA	West Dundee
+USA	Leeds
+USA	Mankato
+USA	Arlington
+USA	Tyler
+USA	Flint
+USA	Jeffersonville
+USA	Madison
+USA	Howell
+USA	Chicago
+USA	Florence
+USA	Olympia
+USA	South Portland
+USA	Palm Springs
+USA	Durham
+USA	Torrance
+USA	New York City
+USA	Chattanooga
+USA	Denver
+USA	Pittsburgh
+USA	Joplin
+USA	Little Rock
+USA	Little Rock
+USA	Westbrook
+USA	Estero
+USA	McAllen
+USA	Pensacola
+USA	Wichita
+USA	Independence
+USA	Kennesaw
+USA	Memphis
+USA	Kansas
+USA	Carlsbad
+USA	Richmond
+USA	San Antonio
+USA	Providence
+USA	North wales
+USA	Irvine
+USA	Norfolk
+USA	Woodbury
+USA	Allen
+USA	Gaffney
+USA	San Bernardino
+USA	North Charleston
+USA	Niagara Falls
+USA	Portage
+USA	Branson
+USA	New York City
+Viet Nam	HoChiMinh
+Viet Nam	Hanoi
+Viet Nam	HoChiMinh
+Viet Nam	Hanoi
+South Africa	Cape Town
+South Africa	Johannesburg
+South Africa	Johannesburg
+South Africa	Johannesburg
+South Africa	Johannesburg
+South Africa	Cape Town
+South Africa	Pretoria
+South Africa	Cape Town
+South Africa	Durban
+South Africa	Johannesburg
+South Africa	Nelspruit
+South Africa	Durban
+South Africa	Polokwane
+South Africa	Witbank
+South Africa	Cape Town
+South Africa	Johannesburg
+South Africa	Richards Bay
+South Africa	East London
+South Africa	Cape Town
