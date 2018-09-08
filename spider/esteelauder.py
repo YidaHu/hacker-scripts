@@ -62,7 +62,7 @@ lists.append(
      'CITY', 'COUNTRY', 'EVENT_START_DATE', 'EVENT_NAME', 'STORE_HOURS', 'PHONE1', 'DOOR_ID', 'DISTANCE',
      'EVENT_TIMES', 'ADDRESS', 'EVENT_FEATURES', 'STATE_OR_PROVINCE'])
 city_lists = []
-with open("city.txt") as input:
+with open("hk.txt",encoding='UTF-8') as input:
     lines = input.readlines()
 for i in range(len(lines)):
     c_list = lines[i].replace('\n', '').split('\t')
