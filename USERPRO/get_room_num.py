@@ -33,7 +33,7 @@ def post_request(url, params):
 
 def job(list):
     url = "http://ent.sipmch.com.cn:8000/ModuleDefaultCompany/RentManage/SearchRentNo"
-    params = {"CertNo": "321322199201154032"}  # 参数
+    params = {"CertNo": "xxxxxxxx"}  # 参数
     result = post_request(url, params)  # 结果抓取
     result = re.sub(r'</?\w+[^>]*>', '', result)  # 过滤html标签
     result = re.findall(r"\d+\.?\d*", result)
